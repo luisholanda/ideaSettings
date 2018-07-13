@@ -20,6 +20,12 @@
         <mark key="]" line="2" column="40" />
         <mark key="." line="2" column="40" />
       </file>
+      <file name="$USER_HOME$/TerraMagna/repositories/terramagna_commons/data_proc/packages/geotools/raster/core.py" timestamp="1531512091038">
+        <mark key="[" line="504" column="34" />
+        <mark key="]" line="504" column="34" />
+        <mark key="^" line="504" column="61" />
+        <mark key="." line="504" column="34" />
+      </file>
       <file name="$USER_HOME$/TerraMagna/repositories/platform/services/pdfDownloadService/src/index.ts" timestamp="1531500360951">
         <mark key="[" line="5" column="13" />
         <mark key="]" line="5" column="16" />
@@ -58,7 +64,7 @@
         <text encoding="base64">ICAgICAgIC50aGVuKHJlcyA9PiByZXMucm93c1swXVswXSk7Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>0, 0, band.XSize, band.YSize</text>
       </register>
       <register name="2" type="4">
         <text encoding="base64">ICByZXR1cm4gdGhpcy5xdWVyeSh0aGlzLlFVRVJZX1RFTVBMQVRFLCBbdXNlcl0pCiAgICAg</text>
@@ -67,7 +73,7 @@
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>0, 0, band.XSize, band.YSize</text>
       </register>
     </registers>
     <search>
@@ -75,9 +81,12 @@
       <show-last>false</show-last>
     </search>
     <history>
+      <history-search />
       <history-cmd>
         <entry>w</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts />
   </component>
