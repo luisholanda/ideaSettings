@@ -2,14 +2,52 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
-    <jumps />
-    <registers />
+    <filemarks>
+      <file name="$USER_HOME$/TerraMagna/repositories/platform/services/userAuthService/src/lib/database.ts" timestamp="1531493604020">
+        <mark key="'" line="51" column="2" />
+        <mark key="[" line="55" column="41" />
+        <mark key="]" line="27" column="9" />
+        <mark key="." line="27" column="9" />
+        <mark key="^" line="27" column="9" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="58" column="43" filename="$USER_HOME$/TerraMagna/repositories/platform/services/userAuthService/src/lib/database.ts" />
+      <jump line="68" column="0" filename="$USER_HOME$/TerraMagna/repositories/platform/services/userAuthService/src/lib/database.ts" />
+      <jump line="52" column="3" filename="$USER_HOME$/TerraMagna/repositories/platform/services/userAuthService/src/lib/database.ts" />
+      <jump line="62" column="0" filename="$USER_HOME$/TerraMagna/repositories/platform/services/userAuthService/src/lib/database.ts" />
+      <jump line="63" column="2" filename="$USER_HOME$/TerraMagna/repositories/platform/services/userAuthService/src/lib/database.ts" />
+      <jump line="55" column="41" filename="$USER_HOME$/TerraMagna/repositories/platform/services/userAuthService/src/lib/database.ts" />
+      <jump line="65" column="0" filename="$USER_HOME$/TerraMagna/repositories/platform/services/userAuthService/src/lib/database.ts" />
+      <jump line="64" column="0" filename="$USER_HOME$/TerraMagna/repositories/platform/services/userAuthService/src/lib/database.ts" />
+      <jump line="51" column="2" filename="$USER_HOME$/TerraMagna/repositories/platform/services/userAuthService/src/lib/database.ts" />
+    </jumps>
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgIC50aGVuKHJlcyA9PiByZXMucm93c1swXVswXSk7Cg==</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>)</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">ICByZXR1cm4gdGhpcy5xdWVyeSh0aGlzLlFVRVJZX1RFTVBMQVRFLCBbdXNlcl0pCiAgICAg</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+      <register name="-" type="4">
+        <text>)</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
+    </history>
     <shortcut-conflicts />
   </component>
 </application>
