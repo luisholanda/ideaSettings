@@ -1,0 +1,49 @@
+<keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="EditorCloneCaretAbove">
+    <keyboard-shortcut first-keystroke="alt a" />
+  </action>
+  <action id="EditorCloneCaretBelow">
+    <keyboard-shortcut first-keystroke="alt b" />
+  </action>
+  <action id="IncrementalSearch">
+    <keyboard-shortcut first-keystroke="alt f" />
+  </action>
+  <action id="MoveTabDown">
+    <keyboard-shortcut first-keystroke="alt s" second-keystroke="down" />
+  </action>
+  <action id="MoveTabRight">
+    <keyboard-shortcut first-keystroke="alt s" second-keystroke="right" />
+  </action>
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="alt s" second-keystroke="n" />
+  </action>
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="shift meta close_bracket" />
+    <keyboard-shortcut first-keystroke="ctrl right" />
+    <keyboard-shortcut first-keystroke="alt t" second-keystroke="right" />
+  </action>
+  <action id="PrevSplitter">
+    <keyboard-shortcut first-keystroke="alt s" second-keystroke="p" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="shift meta open_bracket" />
+    <keyboard-shortcut first-keystroke="ctrl left" />
+    <keyboard-shortcut first-keystroke="alt t" second-keystroke="left" />
+  </action>
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift f6" />
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
+  <action id="SplitHorizontally">
+    <keyboard-shortcut first-keystroke="alt s" second-keystroke="h" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="alt s" second-keystroke="v" />
+  </action>
+  <action id="Unsplit">
+    <keyboard-shortcut first-keystroke="alt s" second-keystroke="u" />
+  </action>
+  <action id="UnsplitAll">
+    <keyboard-shortcut first-keystroke="alt s" second-keystroke="shift u" />
+  </action>
+</keymap>
