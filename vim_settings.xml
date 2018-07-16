@@ -9,6 +9,45 @@
         <mark key="." line="13" column="25" />
         <mark key="^" line="13" column="25" />
       </file>
+      <file name="$USER_HOME$/TerraMagna/repositories/platform/services/userAuthService/src/lib/database.ts" timestamp="1531767303622">
+        <mark key="'" line="50" column="2" />
+        <mark key="[" line="53" column="10" />
+        <mark key="]" line="53" column="12" />
+        <mark key="." line="53" column="12" />
+        <mark key="^" line="53" column="12" />
+      </file>
+      <file name="$USER_HOME$/TerraMagna/repositories/platform/services/pdfDownloadService/src/index.ts" timestamp="1531500360951">
+        <mark key="[" line="5" column="13" />
+        <mark key="]" line="5" column="16" />
+        <mark key="^" line="5" column="16" />
+        <mark key="." line="5" column="16" />
+      </file>
+      <file name="$USER_HOME$/TerraMagna/repositories/platform/services/pdfDownloadService/package.json" timestamp="1531500241176">
+        <mark key="[" line="32" column="15" />
+      </file>
+      <file name="$USER_HOME$/TerraMagna/repositories/platform/browser/src/components/LoginBackground.vue" timestamp="1531768213675">
+        <mark key="[" line="95" column="6" />
+        <mark key="]" line="95" column="6" />
+        <mark key="." line="95" column="6" />
+        <mark key="^" line="80" column="53" />
+      </file>
+      <file name="$USER_HOME$/TerraMagna/repositories/platform/browser/src/components/ControlPanel.vue" timestamp="1531768469113">
+        <mark key="[" line="256" column="17" />
+        <mark key="]" line="256" column="17" />
+        <mark key="^" line="155" column="38" />
+        <mark key="." line="256" column="17" />
+      </file>
+      <file name="$USER_HOME$/TerraMagna/repositories/platform/browser/src/components/LoginCard.vue" timestamp="1531767843544">
+        <mark key="[" line="132" column="0" />
+        <mark key="]" line="132" column="0" />
+        <mark key="." line="132" column="0" />
+      </file>
+      <file name="$USER_HOME$/TerraMagna/repositories/platform/browser/src/components/CardContent.vue" timestamp="1531768553990">
+        <mark key="[" line="130" column="8" />
+        <mark key="]" line="244" column="17" />
+        <mark key="^" line="257" column="9" />
+        <mark key="." line="244" column="17" />
+      </file>
       <file name="$USER_HOME$/TerraMagna/repositories/platform/services/userAuthService/src/routers/auth.ts" timestamp="1531521619801">
         <mark key="'" line="7" column="0" />
       </file>
@@ -17,29 +56,13 @@
         <mark key="]" line="0" column="32" />
         <mark key="." line="0" column="32" />
       </file>
-      <file name="$USER_HOME$/TerraMagna/repositories/platform/services/userAuthService/src/lib/database.ts" timestamp="1531767303622">
-        <mark key="'" line="50" column="2" />
-        <mark key="[" line="53" column="10" />
-        <mark key="]" line="53" column="12" />
-        <mark key="." line="53" column="12" />
-        <mark key="^" line="53" column="12" />
-      </file>
       <file name="$USER_HOME$/TerraMagna/repositories/platform/services/pdfDownloadService/src/lib/pdfFetcher.ts" timestamp="1531500320840">
         <mark key="[" line="2" column="40" />
         <mark key="]" line="2" column="40" />
         <mark key="." line="2" column="40" />
       </file>
-      <file name="$USER_HOME$/TerraMagna/repositories/platform/services/pdfDownloadService/src/index.ts" timestamp="1531500360951">
-        <mark key="[" line="5" column="13" />
-        <mark key="]" line="5" column="16" />
-        <mark key="^" line="5" column="16" />
-        <mark key="." line="5" column="16" />
-      </file>
       <file name="$USER_HOME$/TerraMagna/repositories/platform/services/pdfDownloadService/src/lib/logger.ts" timestamp="1531500381013">
         <mark key="[" line="10" column="1" />
-      </file>
-      <file name="$USER_HOME$/TerraMagna/repositories/platform/services/pdfDownloadService/package.json" timestamp="1531500241176">
-        <mark key="[" line="32" column="15" />
       </file>
       <file name="$USER_HOME$/TerraMagna/repositories/platform/services/userAuthService/src/index.ts" timestamp="1531499670964">
         <mark key="'" line="11" column="23" />
@@ -70,28 +93,40 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGwgPT4gUHJvbWlzZS5yZXNvbHZlKGxlZnQobCkgYXMgRmFpbGFibGU8REJVc2VySW5mbz4pLAo=</text>
+        <text encoding="base64">ICAgIC13ZWJraXQtdHJhbnNmb3JtOiB0cmFuc2xhdGUoMCUsIDAlKTsgLyogU2FmYXJpICovCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>fold</text>
+        <text>x</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgY29tcG9zZSB9IGZyb20gImZwLXRzL2xpYi9mdW5jdGlvbiI7Cg==</text>
+        <text encoding="base64">ICAgIC1tcy10cmFuc2Zvcm06IHRyYW5zbGF0ZSgwJSwgMCUpOyAvKiBJRSA5ICovCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC5nZXQoKTsK</text>
+        <text encoding="base64">ICAgIC13ZWJraXQtdHJhbnNmb3JtOiB0cmFuc2xhdGUoMTAwJSwgNTAlKTsgLyogU2FmYXJpICovCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgIC50aGVuKHJlcyA9PiByZXMucm93c1swXVswXSk7Cg==</text>
+        <text encoding="base64">ICAgIC1tcy10cmFuc2Zvcm06IHRyYW5zbGF0ZSgxMDAlLCA1MCUpOyAvKiBJRSA5ICovCg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICByZXR1cm4gdGhpcy5xdWVyeSh0aGlzLlFVRVJZX1RFTVBMQVRFLCBbdXNlcl0pCiAgICAg</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHRyYW5zZm9ybTogdHJhbnNsYXRlKC01MCUsIC01MCUpOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIC13ZWJraXQtdHJhbnNmb3JtOiB0cmFuc2xhdGUoMCUsIDAlKTsgLyogU2FmYXJpICovCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIC1tcy10cmFuc2Zvcm06IHRyYW5zbGF0ZSgwJSwgMCUpOyAvKiBJRSA5ICovCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIC13ZWJraXQtdHJhbnNmb3JtOiB0cmFuc2xhdGUoLTUwJSwgLTUwJSk7IC8qIFNhZmFyaSAqLwo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIC1tcy10cmFuc2Zvcm06IHRyYW5zbGF0ZSgtNTAlIC01MCUpOyAvKiBJRSA5ICovCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>fold</text>
+        <text>x</text>
       </register>
     </registers>
     <search>
