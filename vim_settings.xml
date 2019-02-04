@@ -29,10 +29,12 @@
         <mark key="]" line="2" column="40" />
         <mark key="." line="2" column="40" />
       </file>
-      <file name="$USER_HOME$/TerraMagna/repositories/stackdriver_logger/go/tmLogger.go" timestamp="1549311972680">
-        <mark key="[" line="19" column="5" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/TerraMagna/repositories/stackdriver_logger/go/tmLogger.go" timestamp="1549315707994">
+        <mark key="'" line="65" column="28" />
+        <mark key="[" line="59" column="15" />
+        <mark key="]" line="58" column="28" />
+        <mark key="^" line="58" column="28" />
+        <mark key="." line="58" column="28" />
       </file>
       <file name="$USER_HOME$/TerraMagna/repositories/platform/services/pdfDownloadService/src/index.ts" timestamp="1531500360951">
         <mark key="[" line="5" column="13" />
@@ -72,34 +74,48 @@
       <jump line="4" column="0" filename="$USER_HOME$/TerraMagna/repositories/platform/services/userAuthService/src/routers/auth.ts" />
       <jump line="6" column="0" filename="$USER_HOME$/TerraMagna/repositories/platform/services/userAuthService/src/routers/auth.ts" />
       <jump line="7" column="0" filename="$USER_HOME$/TerraMagna/repositories/platform/services/userAuthService/src/routers/auth.ts" />
+      <jump line="4" column="7" filename="$USER_HOME$/TerraMagna/repositories/stackdriver_logger/go/tmLogger.go" />
+      <jump line="65" column="28" filename="$USER_HOME$/TerraMagna/repositories/stackdriver_logger/go/tmLogger.go" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">CWxvZ2dlciA6PSBjbGllbnQuCg==</text>
-      </register>
       <register name="&quot;" type="4">
         <text>fold</text>
       </register>
+      <register name="-" type="4">
+        <text>;</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">CWZtdE1lc3NhZ2UgOj0gZm10LlNwcmludChlbnRyeS5CYXNlTWVzc2FnZSwgZW50cnkuQXJndW1lbnRzKQoJc2RFbnRyeSA6PSBsb2dnaW5nLkVudHJ5ewoJCVBheWxvYWQ6IGZtdE1lc3NhZ2UsCgkJU2V2ZXJpdHk6IGxvZ2dpbmcuSW5mbywKCQlMYWJlbHM6IGVudHJ5LkxhYmVscywKCX0KCglsb2dnZXIubG9nZ2VyLkxvZyhzZEVudHJ5KQoJZm10LlByaW50bG4oZm10TWVzc2FnZSkK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGwgPT4gUHJvbWlzZS5yZXNvbHZlKGxlZnQobCkgYXMgRmFpbGFibGU8REJVc2VySW5mbz4pLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgY29tcG9zZSB9IGZyb20gImZwLXRzL2xpYi9mdW5jdGlvbiI7Cg==</text>
+        <text encoding="base64">CWZ1bmMgcHJpbnRMb2codGltZSkgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC5nZXQoKTsK</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgIC50aGVuKHJlcyA9PiByZXMucm93c1swXVswXSk7Cg==</text>
+        <text encoding="base64">CmZ1bmMgcHJpbnRMb2codGltZSkgewp9Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICByZXR1cm4gdGhpcy5xdWVyeSh0aGlzLlFVRVJZX1RFTVBMQVRFLCBbdXNlcl0pCiAgICAg</text>
+      <register name="6" type="2">
+        <text encoding="base64">CWZtdC5QcmludGYoIiV2IFsldl0gJXYiLCB0aW1lc3RhbXAsIHNldmVyaXR5LlN0cmluZygpLCBmbXRNZXNzYWdlKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CWZtdC5QcmludGYoIiV2IFsldl0gJXYiLCB0aW1lc3RhbXAsIHNldmVyaXR5LlN0cmluZygpLCBmbXRNZXNzYWdlKQo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">CWdvIGxvZ2dlci5sb2cK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
-      </register>
-      <register name="-" type="4">
-        <text>fold</text>
       </register>
     </registers>
     <search>
@@ -109,6 +125,10 @@
     <history>
       <history-search />
       <history-cmd>
+        <entry>W</entry>
+        <entry>w;</entry>
+        <entry>action RecentFiles</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
