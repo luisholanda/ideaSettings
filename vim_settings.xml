@@ -29,6 +29,11 @@
         <mark key="]" line="2" column="40" />
         <mark key="." line="2" column="40" />
       </file>
+      <file name="$USER_HOME$/TerraMagna/repositories/stackdriver_logger/go/tmLogger.go" timestamp="1549311136037">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="$USER_HOME$/TerraMagna/repositories/platform/services/pdfDownloadService/src/index.ts" timestamp="1531500360951">
         <mark key="[" line="5" column="13" />
         <mark key="]" line="5" column="16" />
@@ -70,21 +75,24 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGwgPT4gUHJvbWlzZS5yZXNvbHZlKGxlZnQobCkgYXMgRmFpbGFibGU8REJVc2VySW5mbz4pLAo=</text>
+        <text encoding="base64">CWxvZ2dlciA6PSBjbGllbnQuCg==</text>
       </register>
       <register name="&quot;" type="4">
         <text>fold</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgY29tcG9zZSB9IGZyb20gImZwLXRzL2xpYi9mdW5jdGlvbiI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGwgPT4gUHJvbWlzZS5yZXNvbHZlKGxlZnQobCkgYXMgRmFpbGFibGU8REJVc2VySW5mbz4pLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC5nZXQoKTsK</text>
+        <text encoding="base64">aW1wb3J0IHsgY29tcG9zZSB9IGZyb20gImZwLXRzL2xpYi9mdW5jdGlvbiI7Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgIC5nZXQoKTsK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgIC50aGVuKHJlcyA9PiByZXMucm93c1swXVswXSk7Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICByZXR1cm4gdGhpcy5xdWVyeSh0aGlzLlFVRVJZX1RFTVBMQVRFLCBbdXNlcl0pCiAgICAg</text>
       </register>
       <register name=":" type="4">
