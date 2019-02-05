@@ -61,10 +61,12 @@
         <mark key="]" line="107" column="0" />
         <mark key="." line="107" column="0" />
       </file>
+      <file name="$USER_HOME$/TerraMagna/repositories/panoptes_api/go.mod" timestamp="1549387500366">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/TerraMagna/repositories/platform/services/pdfDownloadService/src/lib/logger.ts" timestamp="1531500381013">
         <mark key="[" line="10" column="1" />
       </file>
-      <file name="$USER_HOME$/.gopath/pkg/mod/cloud.google.com/go@v0.35.1/logging/logging.go" timestamp="1549381761847" />
       <file name="$USER_HOME$/TerraMagna/repositories/platform/services/userAuthService/src/index.ts" timestamp="1531499670964">
         <mark key="'" line="11" column="23" />
         <mark key="[" line="9" column="9" />
