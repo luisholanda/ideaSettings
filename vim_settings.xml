@@ -67,11 +67,7 @@
       <file name="$USER_HOME$/TerraMagna/repositories/platform/services/pdfDownloadService/src/lib/logger.ts" timestamp="1531500381013">
         <mark key="[" line="10" column="1" />
       </file>
-      <file name="$USER_HOME$/TerraMagna/repositories/panoptes_api/panoptes/api/monitoring/areas.go" timestamp="1549400133303">
-        <mark key="[" line="45" column="61" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
-      </file>
+      <file name="$USER_HOME$/TerraMagna/repositories/panoptes_api/panoptes/api/monitoring/areas.go" timestamp="1549405231559" />
       <file name="$USER_HOME$/TerraMagna/repositories/platform/services/userAuthService/src/index.ts" timestamp="1531499670964">
         <mark key="'" line="11" column="23" />
         <mark key="[" line="9" column="9" />
