@@ -29,12 +29,11 @@
         <mark key="]" line="2" column="40" />
         <mark key="." line="2" column="40" />
       </file>
-      <file name="$USER_HOME$/TerraMagna/repositories/stackdriver_logger/go/tmLogger.go" timestamp="1549315707994">
-        <mark key="'" line="65" column="28" />
-        <mark key="[" line="59" column="15" />
-        <mark key="]" line="58" column="28" />
-        <mark key="^" line="58" column="28" />
-        <mark key="." line="58" column="28" />
+      <file name="$USER_HOME$/TerraMagna/repositories/stackdriver_logger/go/tmLogger.go" timestamp="1549317844366">
+        <mark key="[" line="95" column="0" />
+        <mark key="]" line="95" column="0" />
+        <mark key="." line="95" column="0" />
+        <mark key="^" line="75" column="48" />
       </file>
       <file name="$USER_HOME$/TerraMagna/repositories/platform/services/pdfDownloadService/src/index.ts" timestamp="1531500360951">
         <mark key="[" line="5" column="13" />
@@ -82,37 +81,37 @@
         <text>fold</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>Debug</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CWZtdE1lc3NhZ2UgOj0gZm10LlNwcmludChlbnRyeS5CYXNlTWVzc2FnZSwgZW50cnkuQXJndW1lbnRzKQoJc2RFbnRyeSA6PSBsb2dnaW5nLkVudHJ5ewoJCVBheWxvYWQ6IGZtdE1lc3NhZ2UsCgkJU2V2ZXJpdHk6IGxvZ2dpbmcuSW5mbywKCQlMYWJlbHM6IGVudHJ5LkxhYmVscywKCX0KCglsb2dnZXIubG9nZ2VyLkxvZyhzZEVudHJ5KQoJZm10LlByaW50bG4oZm10TWVzc2FnZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlUaW1lc3RhbXA6IHRpbWVzdGFtcCwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXRpbWVzdGFtcCA6PSB0aW1lLk5vdygpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CWZ1bmMgcHJpbnRMb2codGltZSkgewo=</text>
+        <text encoding="base64">Ly8gRGVidWcgZW1pdHMgYSBgTG9nZ2VyRW50cnlgIHdpdGggYERlYnVnYCBzZXZlcml0eS4K</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">CX0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CmZ1bmMgcHJpbnRMb2codGltZSkgewp9Cg==</text>
+        <text encoding="base64">cmV0dXJuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CWZtdC5QcmludGYoIiV2IFsldl0gJXYiLCB0aW1lc3RhbXAsIHNldmVyaXR5LlN0cmluZygpLCBmbXRNZXNzYWdlKQo=</text>
+        <text encoding="base64">CWVycm9yID0gbG9nZ2VyLmxvZ2dlci5GbHVzaCgpCglpZiBlcnJvciA9PSBuaWwgewo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWZtdC5QcmludGYoIiV2IFsldl0gJXYiLCB0aW1lc3RhbXAsIHNldmVyaXR5LlN0cmluZygpLCBmbXRNZXNzYWdlKQo=</text>
+        <text encoding="base64">CV8gPSBsb2dnZXIuY2xpZW50LkNsb3NlKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CWdvIGxvZ2dlci5sb2cK</text>
+        <text encoding="base64">Ly8gU2VlIGBsb2dnaW5nL05ld0NsaWVudGAgZm9yIGRldGFpbHMgYWJvdXQgYHByb2plY3ROYW1lYC4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -125,10 +124,10 @@
     <history>
       <history-search />
       <history-cmd>
-        <entry>W</entry>
         <entry>w;</entry>
-        <entry>action RecentFiles</entry>
         <entry>q</entry>
+        <entry>W</entry>
+        <entry>action RecentFiles</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
