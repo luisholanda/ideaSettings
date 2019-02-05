@@ -67,6 +67,11 @@
       <file name="$USER_HOME$/TerraMagna/repositories/platform/services/pdfDownloadService/src/lib/logger.ts" timestamp="1531500381013">
         <mark key="[" line="10" column="1" />
       </file>
+      <file name="$USER_HOME$/TerraMagna/repositories/panoptes_api/panoptes/api/monitoring/areas.go" timestamp="1549399193500">
+        <mark key="[" line="35" column="6" />
+        <mark key="]" line="35" column="6" />
+        <mark key="." line="35" column="6" />
+      </file>
       <file name="$USER_HOME$/TerraMagna/repositories/platform/services/userAuthService/src/index.ts" timestamp="1531499670964">
         <mark key="'" line="11" column="23" />
         <mark key="[" line="9" column="9" />
@@ -112,31 +117,31 @@
         <text encoding="base64">CWZtdE1lc3NhZ2UgOj0gZm10LlNwcmludChlbnRyeS5CYXNlTWVzc2FnZSwgZW50cnkuQXJndW1lbnRzKQoJc2RFbnRyeSA6PSBsb2dnaW5nLkVudHJ5ewoJCVBheWxvYWQ6IGZtdE1lc3NhZ2UsCgkJU2V2ZXJpdHk6IGxvZ2dpbmcuSW5mbywKCQlMYWJlbHM6IGVudHJ5LkxhYmVscywKCX0KCglsb2dnZXIubG9nZ2VyLkxvZyhzZEVudHJ5KQoJZm10LlByaW50bG4oZm10TWVzc2FnZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlhcmdzIDo9ICZBcmVhc0FyZ3N7CgkJCUNvbXBhbnk6IHIuRm9ybVZhbHVlKCJjb21wYW55IiksCgkJCVN0YXRlOiByLkZvcm1WYWx1ZSgic3RhdGUiKSwKCQkJTXVuaWNpcGFsaXR5OiByLkZvcm1WYWx1ZSgibXVuaWNpcGFsaXR5IiksCgkJCU9mZnNldDoKCQl9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnVuYyBtYWluKCkgewoJbG9nZ2VyLCBlcnIgOj0gTmV3TG9nZ2VyKGNvbnRleHQuQmFja2dyb3VuZCgpLCAidGVzdCIpCglpZiBlcnIgIT0gbmlsIHsKCQlmbXQuUHJpbnQoZXJyKQoJCXJldHVybgoJfQoKCWxvZ2dlci5JbmZvKExvZ2dlckVudHJ5ewoJCU1lc3NhZ2U6ICAgIlRlc3Rpbmcgd2l0aCBhcmd1bWVudCAldiIsCgkJQXJndW1lbnRzOiBbXWludGVyZmFjZXt9ezF9LAoJCUxhYmVsczogICAgbWFwW3N0cmluZ11zdHJpbmd7InRlc3QtbGFiZWwiOiAiYWJjIn0sCgl9KQoKCWVyciA9IGxvZ2dlci5DbG9zZSgpCglpZiBlcnIgIT0gbmlsIHsKCQlmbXQuUHJpbnQoZXJyKQoJfQp9Cg==</text>
+        <text encoding="base64">CWlmIHIuTWV0aG9kICE9IGh0dHAuTWV0aG9kR2V0IHsKCQlodHRwLkVycm9yKHcsICJOT1RfQUxMT1dFRCIsIGh0dHAuU3RhdHVzTWV0aG9kTm90QWxsb3dlZCkKCQlyZXR1cm4KCX0K</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CWZtdE1lc3NhZ2UgOj0gZm10LlNwcmludChlbnRyeS5NZXNzYWdlLCBlbnRyeS5Bcmd1bWVudHMpCg==</text>
+        <text encoding="base64">ZnVuYyBtYWluKCkgewoJbG9nZ2VyLCBlcnIgOj0gTmV3TG9nZ2VyKGNvbnRleHQuQmFja2dyb3VuZCgpLCAidGVzdCIpCglpZiBlcnIgIT0gbmlsIHsKCQlmbXQuUHJpbnQoZXJyKQoJCXJldHVybgoJfQoKCWxvZ2dlci5JbmZvKExvZ2dlckVudHJ5ewoJCU1lc3NhZ2U6ICAgIlRlc3Rpbmcgd2l0aCBhcmd1bWVudCAldiIsCgkJQXJndW1lbnRzOiBbXWludGVyZmFjZXt9ezF9LAoJCUxhYmVsczogICAgbWFwW3N0cmluZ11zdHJpbmd7InRlc3QtbGFiZWwiOiAiYWJjIn0sCgl9KQoKCWVyciA9IGxvZ2dlci5DbG9zZSgpCglpZiBlcnIgIT0gbmlsIHsKCQlmbXQuUHJpbnQoZXJyKQoJfQp9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cGFja2FnZSBtYWluCgo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">CWZtdE1lc3NhZ2UgOj0gZm10LlNwcmludChlbnRyeS5NZXNzYWdlLCBlbnRyeS5Bcmd1bWVudHMpCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnVuYyBtYWluKCkgewoJZm10LlByaW50KCJUZXN0IikKfQo=</text>
+        <text encoding="base64">cGFja2FnZSBtYWluCgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlUaW1lc3RhbXA6IHRpbWVzdGFtcCwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CXRpbWVzdGFtcCA6PSB0aW1lLk5vdygpCg==</text>
+        <text encoding="base64">ZnVuYyBtYWluKCkgewoJZm10LlByaW50KCJUZXN0IikKfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
