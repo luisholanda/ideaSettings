@@ -29,11 +29,11 @@
         <mark key="]" line="2" column="40" />
         <mark key="." line="2" column="40" />
       </file>
-      <file name="$USER_HOME$/TerraMagna/repositories/stackdriver_logger/go/tmLogger.go" timestamp="1549317844366">
-        <mark key="[" line="95" column="0" />
-        <mark key="]" line="95" column="0" />
-        <mark key="." line="95" column="0" />
-        <mark key="^" line="75" column="48" />
+      <file name="$USER_HOME$/TerraMagna/repositories/stackdriver_logger/go/tmLogger.go" timestamp="1549370077105">
+        <mark key="[" line="26" column="27" />
+        <mark key="]" line="27" column="55" />
+        <mark key="." line="27" column="55" />
+        <mark key="^" line="27" column="55" />
       </file>
       <file name="$USER_HOME$/TerraMagna/repositories/platform/services/pdfDownloadService/src/index.ts" timestamp="1531500360951">
         <mark key="[" line="5" column="13" />
@@ -125,9 +125,9 @@
       <history-search />
       <history-cmd>
         <entry>w;</entry>
-        <entry>q</entry>
-        <entry>W</entry>
         <entry>action RecentFiles</entry>
+        <entry>W</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
