@@ -9,6 +9,40 @@
         <mark key="." line="13" column="25" />
         <mark key="^" line="13" column="25" />
       </file>
+      <file name="$USER_HOME$/TerraMagna/repositories/platform/services/userAuthService/src/lib/database.ts" timestamp="1531767303622">
+        <mark key="'" line="50" column="2" />
+        <mark key="[" line="53" column="10" />
+        <mark key="]" line="53" column="12" />
+        <mark key="." line="53" column="12" />
+        <mark key="^" line="53" column="12" />
+      </file>
+      <file name="$USER_HOME$/TerraMagna/repositories/platform/services/pdfDownloadService/src/index.ts" timestamp="1531500360951">
+        <mark key="[" line="5" column="13" />
+        <mark key="]" line="5" column="16" />
+        <mark key="^" line="5" column="16" />
+        <mark key="." line="5" column="16" />
+      </file>
+      <file name="$USER_HOME$/TerraMagna/repositories/platform/services/pdfDownloadService/package.json" timestamp="1531500241176">
+        <mark key="[" line="32" column="15" />
+      </file>
+      <file name="$USER_HOME$/TerraMagna/repositories/stackdriver_logger/go/main.go" timestamp="1549380928618">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="5" column="31" />
+        <mark key="^" line="5" column="31" />
+        <mark key="." line="5" column="31" />
+      </file>
+      <file name="$USER_HOME$/TerraMagna/repositories/stackdriver_logger/go/go.mod" timestamp="1549380697740">
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="10" />
+        <mark key="." line="0" column="10" />
+      </file>
+      <file name="$USER_HOME$/TerraMagna/repositories/stackdriver_logger/go/tmlogger.go" timestamp="1549382873394">
+        <mark key="'" line="103" column="0" />
+        <mark key="[" line="5" column="62" />
+        <mark key="]" line="4" column="15" />
+        <mark key="." line="4" column="15" />
+        <mark key="^" line="4" column="15" />
+      </file>
       <file name="$USER_HOME$/TerraMagna/repositories/platform/services/userAuthService/src/routers/auth.ts" timestamp="1531521619801">
         <mark key="'" line="7" column="0" />
       </file>
@@ -17,36 +51,20 @@
         <mark key="]" line="0" column="32" />
         <mark key="." line="0" column="32" />
       </file>
-      <file name="$USER_HOME$/TerraMagna/repositories/platform/services/userAuthService/src/lib/database.ts" timestamp="1531767303622">
-        <mark key="'" line="50" column="2" />
-        <mark key="[" line="53" column="10" />
-        <mark key="]" line="53" column="12" />
-        <mark key="." line="53" column="12" />
-        <mark key="^" line="53" column="12" />
-      </file>
       <file name="$USER_HOME$/TerraMagna/repositories/platform/services/pdfDownloadService/src/lib/pdfFetcher.ts" timestamp="1531500320840">
         <mark key="[" line="2" column="40" />
         <mark key="]" line="2" column="40" />
         <mark key="." line="2" column="40" />
       </file>
-      <file name="$USER_HOME$/TerraMagna/repositories/stackdriver_logger/go/tmLogger.go" timestamp="1549370077105">
-        <mark key="[" line="26" column="27" />
-        <mark key="]" line="27" column="55" />
-        <mark key="." line="27" column="55" />
-        <mark key="^" line="27" column="55" />
-      </file>
-      <file name="$USER_HOME$/TerraMagna/repositories/platform/services/pdfDownloadService/src/index.ts" timestamp="1531500360951">
-        <mark key="[" line="5" column="13" />
-        <mark key="]" line="5" column="16" />
-        <mark key="^" line="5" column="16" />
-        <mark key="." line="5" column="16" />
+      <file name="$USER_HOME$/TerraMagna/repositories/stackdriver_logger/go/tmLogger.go" timestamp="1549380626559">
+        <mark key="[" line="107" column="0" />
+        <mark key="]" line="107" column="0" />
+        <mark key="." line="107" column="0" />
       </file>
       <file name="$USER_HOME$/TerraMagna/repositories/platform/services/pdfDownloadService/src/lib/logger.ts" timestamp="1531500381013">
         <mark key="[" line="10" column="1" />
       </file>
-      <file name="$USER_HOME$/TerraMagna/repositories/platform/services/pdfDownloadService/package.json" timestamp="1531500241176">
-        <mark key="[" line="32" column="15" />
-      </file>
+      <file name="$USER_HOME$/.gopath/pkg/mod/cloud.google.com/go@v0.35.1/logging/logging.go" timestamp="1549381761847" />
       <file name="$USER_HOME$/TerraMagna/repositories/platform/services/userAuthService/src/index.ts" timestamp="1531499670964">
         <mark key="'" line="11" column="23" />
         <mark key="[" line="9" column="9" />
@@ -75,59 +93,72 @@
       <jump line="7" column="0" filename="$USER_HOME$/TerraMagna/repositories/platform/services/userAuthService/src/routers/auth.ts" />
       <jump line="4" column="7" filename="$USER_HOME$/TerraMagna/repositories/stackdriver_logger/go/tmLogger.go" />
       <jump line="65" column="28" filename="$USER_HOME$/TerraMagna/repositories/stackdriver_logger/go/tmLogger.go" />
+      <jump line="26" column="7" filename="$USER_HOME$/TerraMagna/repositories/stackdriver_logger/go/tmlogger.go" />
+      <jump line="102" column="0" filename="$USER_HOME$/TerraMagna/repositories/stackdriver_logger/go/tmlogger.go" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>fold</text>
       </register>
       <register name="-" type="4">
-        <text>Debug</text>
+        <text>*</text>
+      </register>
+      <register name="/" type="4">
+        <text>LoggerEntry</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CWZtdE1lc3NhZ2UgOj0gZm10LlNwcmludChlbnRyeS5CYXNlTWVzc2FnZSwgZW50cnkuQXJndW1lbnRzKQoJc2RFbnRyeSA6PSBsb2dnaW5nLkVudHJ5ewoJCVBheWxvYWQ6IGZtdE1lc3NhZ2UsCgkJU2V2ZXJpdHk6IGxvZ2dpbmcuSW5mbywKCQlMYWJlbHM6IGVudHJ5LkxhYmVscywKCX0KCglsb2dnZXIubG9nZ2VyLkxvZyhzZEVudHJ5KQoJZm10LlByaW50bG4oZm10TWVzc2FnZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlUaW1lc3RhbXA6IHRpbWVzdGFtcCwK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">CXRpbWVzdGFtcCA6PSB0aW1lLk5vdygpCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Ly8gRGVidWcgZW1pdHMgYSBgTG9nZ2VyRW50cnlgIHdpdGggYERlYnVnYCBzZXZlcml0eS4K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CX0K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">cmV0dXJuCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CWVycm9yID0gbG9nZ2VyLmxvZ2dlci5GbHVzaCgpCglpZiBlcnJvciA9PSBuaWwgewo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ZnVuYyBtYWluKCkgewoJbG9nZ2VyLCBlcnIgOj0gTmV3TG9nZ2VyKGNvbnRleHQuQmFja2dyb3VuZCgpLCAidGVzdCIpCglpZiBlcnIgIT0gbmlsIHsKCQlmbXQuUHJpbnQoZXJyKQoJCXJldHVybgoJfQoKCWxvZ2dlci5JbmZvKExvZ2dlckVudHJ5ewoJCU1lc3NhZ2U6ICAgIlRlc3Rpbmcgd2l0aCBhcmd1bWVudCAldiIsCgkJQXJndW1lbnRzOiBbXWludGVyZmFjZXt9ezF9LAoJCUxhYmVsczogICAgbWFwW3N0cmluZ11zdHJpbmd7InRlc3QtbGFiZWwiOiAiYWJjIn0sCgl9KQoKCWVyciA9IGxvZ2dlci5DbG9zZSgpCglpZiBlcnIgIT0gbmlsIHsKCQlmbXQuUHJpbnQoZXJyKQoJfQp9Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CWZtdE1lc3NhZ2UgOj0gZm10LlNwcmludChlbnRyeS5NZXNzYWdlLCBlbnRyeS5Bcmd1bWVudHMpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">cGFja2FnZSBtYWluCgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ZnVuYyBtYWluKCkgewoJZm10LlByaW50KCJUZXN0IikKfQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">CV8gPSBsb2dnZXIuY2xpZW50LkNsb3NlKCkK</text>
+        <text encoding="base64">CQlUaW1lc3RhbXA6IHRpbWVzdGFtcCwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gU2VlIGBsb2dnaW5nL05ld0NsaWVudGAgZm9yIGRldGFpbHMgYWJvdXQgYHByb2plY3ROYW1lYC4K</text>
+        <text encoding="base64">CXRpbWVzdGFtcCA6PSB0aW1lLk5vdygpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
+      <last-search>LoggerEntry</last-search>
+      <last-pattern>LoggerEntry</last-pattern>
+      <last-replace>LogEntry</last-replace>
+      <last-substitute>LoggerEntry</last-substitute>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>LoggerEntry</entry>
+      </history-search>
       <history-cmd>
         <entry>w;</entry>
+        <entry>q</entry>
         <entry>action RecentFiles</entry>
         <entry>W</entry>
-        <entry>q</entry>
+        <entry>%s/LoggerEntry/LogEntryt</entry>
+        <entry>%s/LoggerEntry/LogEntry</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
