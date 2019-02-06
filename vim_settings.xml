@@ -3,10 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/TerraMagna/repositories/panoptes_api/sql/monitoredAreasByCompany.cql" timestamp="1549479322013">
-        <mark key="]" line="5" column="66" />
-        <mark key="." line="5" column="66" />
-        <mark key="^" line="5" column="66" />
+      <file name="$USER_HOME$/TerraMagna/repositories/panoptes_api/sql/monitoredAreasByCompany.cql" timestamp="1549484993539">
+        <mark key="[" line="61" column="14" />
+        <mark key="]" line="61" column="16" />
+        <mark key="^" line="61" column="16" />
+        <mark key="." line="61" column="16" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/100a8a79-7d4e-4c2d-aca5-1633d13248dd/console.sql" timestamp="1549483501533">
+        <mark key="[" line="0" column="3" />
+        <mark key="]" line="4" column="66" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/TerraMagna/repositories/panoptes_api/panoptes.go" timestamp="1549470420085">
         <mark key="[" line="0" column="0" />
@@ -44,10 +51,11 @@
       <file name="$USER_HOME$/TerraMagna/repositories/panoptes_api/farms/farms.go" timestamp="1549470751531">
         <mark key="[" line="0" column="13" />
       </file>
-      <file name="$USER_HOME$/TerraMagna/repositories/panoptes_api/database/internal/monitored.go" timestamp="1549479073313">
-        <mark key="]" line="4" column="16" />
-        <mark key="^" line="4" column="16" />
-        <mark key="." line="4" column="16" />
+      <file name="$USER_HOME$/TerraMagna/repositories/panoptes_api/database/internal/monitored.go" timestamp="1549485105370">
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="0" column="16" />
+        <mark key="^" line="0" column="16" />
+        <mark key="." line="0" column="16" />
       </file>
       <file name="$USER_HOME$/TerraMagna/repositories/panoptes_api/monitoring.openapi.yaml" timestamp="1549470119850">
         <mark key="[" line="90" column="47" />
@@ -172,42 +180,42 @@
         <text>fold</text>
       </register>
       <register name="-" type="4">
-        <text>postgres</text>
+        <text encoding="base64">bW9uaXRvcmVkX2FyZWEuaWQgYXMg</text>
       </register>
       <register name="/" type="4">
         <text>LoggerEntry</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">CWZtdE1lc3NhZ2UgOj0gZW50cnkuTWVzc2FnZQoJaWYgZW50cnkuQXJndW1lbnRzICE9IG5pbCB7CgkJZm10TWVzc2FnZSA9IGZtdC5TcHJpbnQoZW50cnkuTWVzc2FnZSwgZW50cnkuQXJndW1lbnRzKQoJfQ==</text>
+        <text encoding="base64">ICBzZWxlY3QgbW9uaXRvcmVkX2FyZWEuKiBmcm9tIGNvbXBhbnkKICBpbm5lciBqb2luIGNvbXBhbnlfbW9uaXRvcmVkX2FyZWEKICBvbiBjb21wYW55X21vbml0b3JlZF9hcmVhLmNvbXBhbnlfaWQgPSBjb21wYW55LmlkCiAgaW5uZXIgam9pbiBtb25pdG9yZWRfYXJlYQogIG9uIGNvbXBhbnlfbW9uaXRvcmVkX2FyZWEubW9uaXRvcmVkX2FyZWFfaWQgPSBtb25pdG9yZWRfYXJlYS5pZDs=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y3JlYXRlIG9yIHJlcGxhY2UgZnVuY3Rpb24gbW9uaXRvcmVkQXJlYXNPZihjb21wYW55IHRleHQpCnJldHVybnMganNvbmIgYXMgJGFyZWFzJApkZWNsYXJlCiAgYXJlYXMganNvbmIKYmVnaW4KZW5kCmxhbmd1YWdlIHBscGdzcWw7Cg==</text>
+        <text encoding="base64">ICAgICAgc2VsZWN0IGZhcm0gZnJvbSBzdGFuZF9ieV9tb24K</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Y3JlYXRlIG9yIHJlcGxhY2UgZnVuY3Rpb24gbW9uaXRvcmVkQXJlYXNCeUNvbXBhbnkoY29tcGFueU5hbWUgdGV4dCkKcmV0dXJucyBtb25pdG9yZWRfYXJlYQpiZWdpbgogIHNlbGVjdCBtb25pdG9yZWRfYXJlYSBpbnRvIGZyb20gY29tcGFueQogIGlubmVyIGpvaW4gY29tcGFueV9tb25pdG9yZWRfYXJlYQogIG9uIGNvbXBhbnlfaWQgPSBjb21wYW55LmlkCiAgaW5uZXIgam9pbiBtb25pdG9yZWRfYXJlYQogIG9uIG1vbml0b3JlZF9hcmVhX2lkID0gbW9uaXRvcmVkX2FyZWEuaWQKICB3aGVyZSBjb21wYW55Lm5hbWUgPSBjb21wYW55TmFtZTsKZW5kOwpsYW5ndWFnZSBwbHBxc3FsOwo=</text>
+      <register name="2" type="4">
+        <text>itored_area as sma
+      inner join farm on sma.farm_id = farm.id
+      where monitored_area_id = area</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CSJ0ZXJyYW1hZ25hLmNvbS5ici9wYW5vcHRlcyIK</text>
+        <text encoding="base64">Y3JlYXRlIG9yIHJlcGxhY2UgZnVuY3Rpb24gbW9uaXRvcmVBcmVhc09mKGNvbXBhbnkgdGV4dCkKcmV0dXJucyByb3dzKG1vbml0b3JlZF9hcmVhKQpiZWdpbgplbmQKbGFuZ3VhZ2UgcGxwZ3NxbDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y3JlYXRlIG9yIHJlcGxhY2UgZnVuY3Rpb24gbW9uaXRvcmVkQXJlYXNPZihjb21wYW55IHRleHQpCnJldHVybnMganNvbmIgYXMgJGFyZWFzJApkZWNsYXJlCiAgYXJlYXMganNvbmIKYmVnaW4KZW5kCmxhbmd1YWdlIHBscGdzcWw7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CSJ0ZXJyYW1hZ25hLmNvbS5ici9wYW5vcHRlcyIK</text>
+        <text encoding="base64">Y3JlYXRlIG9yIHJlcGxhY2UgZnVuY3Rpb24gbW9uaXRvcmVkQXJlYXNCeUNvbXBhbnkoY29tcGFueU5hbWUgdGV4dCkKcmV0dXJucyBtb25pdG9yZWRfYXJlYQpiZWdpbgogIHNlbGVjdCBtb25pdG9yZWRfYXJlYSBpbnRvIGZyb20gY29tcGFueQogIGlubmVyIGpvaW4gY29tcGFueV9tb25pdG9yZWRfYXJlYQogIG9uIGNvbXBhbnlfaWQgPSBjb21wYW55LmlkCiAgaW5uZXIgam9pbiBtb25pdG9yZWRfYXJlYQogIG9uIG1vbml0b3JlZF9hcmVhX2lkID0gbW9uaXRvcmVkX2FyZWEuaWQKICB3aGVyZSBjb21wYW55Lm5hbWUgPSBjb21wYW55TmFtZTsKZW5kOwpsYW5ndWFnZSBwbHBxc3FsOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CSJ0bWxvZ2dlciIK</text>
+        <text encoding="base64">CSJ0ZXJyYW1hZ25hLmNvbS5ici9wYW5vcHRlcyIK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CSJ0ZXJyYW1hZ25hLmNvbS5ici9wYW5vcHRlcyIK</text>
       </register>
-      <register name="9" type="4">
-        <text>r.Error(tmlogger.LogEntry{
-			Message: err.Error(),
-		}</text>
+      <register name="9" type="2">
+        <text encoding="base64">CSJ0bWxvZ2dlciIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
