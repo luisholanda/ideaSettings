@@ -3,8 +3,9 @@
     <property name="created">2017-12-08T20:44:52</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2017.3.0.0</property>
-    <property name="modified">2018-07-06T16:29:45</property>
+    <property name="modified">2019-02-06T10:30:51</property>
     <property name="originalScheme">Darcula</property>
+    <property name="rainbow Default language">true</property>
   </metaInfo>
   <colors>
     <option name="FILESTATUS_ADDED" value="80cbc4" />

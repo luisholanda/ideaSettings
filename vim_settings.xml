@@ -3,6 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/TerraMagna/repositories/panoptes_api/api/monitoring/areas.go" timestamp="1549409041748">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="5" column="33" />
+        <mark key="]" line="5" column="30" />
+        <mark key="^" line="5" column="30" />
+        <mark key="." line="5" column="30" />
+      </file>
       <file name="$USER_HOME$/TerraMagna/repositories/platform/services/userAuthService/src/service.ts" timestamp="1531521581062">
         <mark key="[" line="13" column="25" />
         <mark key="]" line="13" column="25" />
@@ -37,7 +44,6 @@
         <mark key="." line="0" column="10" />
       </file>
       <file name="$USER_HOME$/TerraMagna/repositories/stackdriver_logger/go/tmlogger.go" timestamp="1549382873394">
-        <mark key="'" line="103" column="0" />
         <mark key="[" line="5" column="62" />
         <mark key="]" line="4" column="15" />
         <mark key="." line="4" column="15" />
@@ -61,19 +67,27 @@
         <mark key="]" line="107" column="0" />
         <mark key="." line="107" column="0" />
       </file>
-      <file name="$USER_HOME$/TerraMagna/repositories/panoptes_api/go.mod" timestamp="1549406357890">
-        <mark key="[" line="0" column="7" />
+      <file name="$USER_HOME$/TerraMagna/repositories/panoptes_api/go.mod" timestamp="1549409036490">
+        <mark key="[" line="0" column="24" />
+        <mark key="]" line="0" column="32" />
+        <mark key="^" line="0" column="32" />
+        <mark key="." line="0" column="32" />
       </file>
       <file name="$USER_HOME$/TerraMagna/repositories/platform/services/pdfDownloadService/src/lib/logger.ts" timestamp="1531500381013">
         <mark key="[" line="10" column="1" />
       </file>
-      <file name="$USER_HOME$/TerraMagna/repositories/panoptes_api/panoptes/api/monitoring/areas.go" timestamp="1549406305252" />
       <file name="$USER_HOME$/TerraMagna/repositories/platform/services/userAuthService/src/index.ts" timestamp="1531499670964">
         <mark key="'" line="11" column="23" />
         <mark key="[" line="9" column="9" />
         <mark key="]" line="9" column="10" />
         <mark key="^" line="9" column="10" />
         <mark key="." line="9" column="10" />
+      </file>
+      <file name="$USER_HOME$/TerraMagna/repositories/panoptes_api/api/monitoring/areas/company.go" timestamp="1549409072669">
+        <mark key="[" line="21" column="14" />
+        <mark key="]" line="22" column="4" />
+        <mark key="^" line="22" column="4" />
+        <mark key="." line="22" column="4" />
       </file>
     </filemarks>
     <jumps>
@@ -98,56 +112,48 @@
       <jump line="65" column="28" filename="$USER_HOME$/TerraMagna/repositories/stackdriver_logger/go/tmLogger.go" />
       <jump line="26" column="7" filename="$USER_HOME$/TerraMagna/repositories/stackdriver_logger/go/tmlogger.go" />
       <jump line="102" column="0" filename="$USER_HOME$/TerraMagna/repositories/stackdriver_logger/go/tmlogger.go" />
+      <jump line="8" column="0" filename="$USER_HOME$/TerraMagna/repositories/panoptes_api/api/monitoring/areas.go" />
+      <jump line="0" column="0" filename="$USER_HOME$/TerraMagna/repositories/panoptes_api/api/monitoring/areas.go" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>fold</text>
       </register>
       <register name="-" type="4">
-        <text>uint64(0)</text>
+        <text>company</text>
       </register>
       <register name="/" type="4">
         <text>LoggerEntry</text>
       </register>
-      <register name="0" type="4">
-        <text>if offsetStr := form.Get(&quot;$offset&quot;); len(offsetStr) != 0 {
-		offset, err = strconv.ParseUint(offsetStr, 10, 64)
-		if err != nil {
-			return nil, errors.New(&quot;invalid $offset value in query parameters&quot;)
-		}
-	}</text>
+      <register name="0" type="2">
+        <text encoding="base64">cGFja2FnZSBhcmVhcwoKaW1wb3J0ICgKCSJlcnJvcnMiCgkibmV0L2h0dHAiCgkibmV0L3VybCIKCSJzdHJjb252IgopCgp0eXBlIGFyZWFzR2V0QXJncyBzdHJ1Y3QgewoJQ29tcGFueSAgICAgIHN0cmluZyBganNvbjoiY29tcGFueSJgCglTdGF0ZSAgICAgICAgc3RyaW5nIGBqc29uOiJzdGF0ZSJgCglNdW5pY2lwYWxpdHkgc3RyaW5nIGBqc29uOiJtdW5pY2lwYWxpdHkiYAoJT2Zmc2V0ICAgICAgIHVpbnQ2NCBganNvbjoiJG9mZnNldCJgCglMaW1pdCAgICAgICAgdWludDY0IGBqc29uOiIkbGltaXQiYAp9CgpmdW5jIEFyZWFzKHcgaHR0cC5SZXNwb25zZVdyaXRlciwgciAqaHR0cC5SZXF1ZXN0KSB7CgkvLyBUT0RPKGx1aXNob2xhbmRhKTogQXV0aG9yaXphdGlvbgoJc3dpdGNoIHIuTWV0aG9kIHsKCWNhc2UgaHR0cC5NZXRob2RHZXQ6CgkJYXJncywgZXJyIDo9IHBhcnNlQXJlYUdldEFyZ3Moci5Gb3JtKQoJCWlmIGVyciAhPSBuaWwgewoJCQlodHRwLkVycm9yKHcsICJCQURfUEFSQU1TIiwgaHR0cC5TdGF0dXNCYWRSZXF1ZXN0KQoJCX0KCQlhcmVhc0dldCh3LCBhcmdzKQoJY2FzZSBodHRwLk1ldGhvZFBvc3Q6CglkZWZhdWx0OgoJCWh0dHAuRXJyb3IodywgIk5PVF9BTExPV0VEIiwgaHR0cC5TdGF0dXNNZXRob2ROb3RBbGxvd2VkKQoJfQp9CgpmdW5jIHBhcnNlQXJlYUdldEFyZ3MoZm9ybSB1cmwuVmFsdWVzKSAoYXJncyAqYXJlYXNHZXRBcmdzLCBlcnIgZXJyb3IpIHsKCWNvbXBhbnkgOj0gZm9ybS5HZXQoImNvbXBhbnkiKQoJaWYgbGVuKGNvbXBhbnkpID09IDAgewoJCXJldHVybiBuaWwsIGVycm9ycy5OZXcoIm1pc3NpbmcgY29tcGFueSBpbiBxdWVyeSBwYXJhbWV0ZXJzIikKCX0KCglzdGF0ZSA6PSBmb3JtLkdldCgic3RhdGUiKQoJaWYgc2wgOj0gbGVuKHN0YXRlKTsgc2wgPiAwICYmIHNsICE9IDIgewoJCXJldHVybiBuaWwsIGVycm9ycy5OZXcoImludmFsaWQgc3RhdGUgdmFsdWUgaW4gcXVlcnkgcGFyYW1ldGVycyIpCgl9CgltdW5pY2lwYWxpdHkgOj0gZm9ybS5HZXQoIm11bmljaXBhbGl0eSIpCgoJb2Zmc2V0LCBlcnIgOj0gcGFyc2VPcHRpb25hbFVJbnQoZm9ybS5HZXQoIiRvZmZzZXQiKSwgMCkKCWlmIGVyciAhPSBuaWwgewoJCXJldHVybiBuaWwsIGVycm9ycy5OZXcoImludmFsaWQgJG9mZnNldCB2YWx1ZSBpbiBxdWVyeSBwYXJhbWV0ZXJzIikKCX0KCglsaW1pdCwgZXJyIDo9IHBhcnNlT3B0aW9uYWxVSW50KGZvcm0uR2V0KCIkbGltaXQiKSwgMTw8NjQtMSkKCWlmIGVyciAhPSBuaWwgewoJCXJldHVybiBuaWwsIGVycm9ycy5OZXcoImludmFsaWQgJGxpbWl0IHZhbHVlIGluIHF1ZXJ5IHBhcmFtZXRlcnMiKQoJfQoKCXJldHVybiAmYXJlYXNHZXRBcmdzewoJCUNvbXBhbnk6ICAgICAgY29tcGFueSwKCQlTdGF0ZTogICAgICAgIHN0YXRlLAoJCU11bmljaXBhbGl0eTogbXVuaWNpcGFsaXR5LAoJCU9mZnNldDogICAgICAgb2Zmc2V0LAoJCUxpbWl0OiAgICAgICAgbGltaXQsCgl9LCBuaWwKfQoKZnVuYyBhcmVhc0dldCh3IGh0dHAuUmVzcG9uc2VXcml0ZXIsIGFyZ3MgKmFyZWFzR2V0QXJncykgewoKfQoKZnVuYyBwYXJzZU9wdGlvbmFsVUludChzdHIgc3RyaW5nLCBkZWYgdWludDY0KSAodWludDY0LCBlcnJvcikgewoJaWYgbGVuKHN0cikgPT0gMCB7CgkJcmV0dXJuIGRlZiwgbmlsCgl9CgoJcGFyc2VkLCBlcnIgOj0gc3RyY29udi5QYXJzZVVpbnQoc3RyLCAxMCwgNjQpCglpZiBlcnIgIT0gbmlsIHsKCQlyZXR1cm4gMCwgZXJyCgl9CgoJcmV0dXJuIHBhcnNlZCwgbmlsCn0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWxpbWl0LCBlcnIgOj0gcGFyc2VPcHRpb25hbFVJbnQoZm9ybS5HZXQoIiRsaW1pdCIpLCAxPDw2NC0xKQo=</text>
+        <text encoding="base64">CS8vIFRPRE8obHVpc2hvbGFuZGEpOiBBdXRob3JpemF0aW9uCg==</text>
       </register>
-      <register name="2" type="4">
-        <text>if offsetStr := form.Get(&quot;$offset&quot;); len(offsetStr) != 0 {
-		offset, err = strconv.ParseUint(offsetStr, 10, 64)
-		if err != nil {
-			return nil, errors.New(&quot;invalid $offset value in query parameters&quot;)
-		}
-	}</text>
+      <register name="2" type="2">
+        <text encoding="base64">CXN3aXRjaCByLk1ldGhvZCB7CgljYXNlIGh0dHAuTWV0aG9kR2V0Ogo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlhcmdzIDo9ICZBcmVhc0FyZ3N7CgkJCUNvbXBhbnk6IHIuRm9ybVZhbHVlKCJjb21wYW55IiksCgkJCVN0YXRlOiByLkZvcm1WYWx1ZSgic3RhdGUiKSwKCQkJTXVuaWNpcGFsaXR5OiByLkZvcm1WYWx1ZSgibXVuaWNpcGFsaXR5IiksCgkJCU9mZnNldDoKCQl9Cg==</text>
+        <text encoding="base64">CQlhcmVhc0dldCh3LCBhcmdzKQoJY2FzZSBodHRwLk1ldGhvZFBvc3Q6CglkZWZhdWx0OgoJCWh0dHAuRXJyb3IodywgIk5PVF9BTExPV0VEIiwgaHR0cC5TdGF0dXNNZXRob2ROb3RBbGxvd2VkKQoJfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CWlmIHIuTWV0aG9kICE9IGh0dHAuTWV0aG9kR2V0IHsKCQlodHRwLkVycm9yKHcsICJOT1RfQUxMT1dFRCIsIGh0dHAuU3RhdHVzTWV0aG9kTm90QWxsb3dlZCkKCQlyZXR1cm4KCX0K</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ZnVuYyBhcmVhc0dldCh3IGh0dHAuUmVzcG9uc2VXcml0ZXIsIGFyZ3MgKmJ5Q29tcGFueUFyZ3MpIHsKCn0K</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnVuYyBtYWluKCkgewoJbG9nZ2VyLCBlcnIgOj0gTmV3TG9nZ2VyKGNvbnRleHQuQmFja2dyb3VuZCgpLCAidGVzdCIpCglpZiBlcnIgIT0gbmlsIHsKCQlmbXQuUHJpbnQoZXJyKQoJCXJldHVybgoJfQoKCWxvZ2dlci5JbmZvKExvZ2dlckVudHJ5ewoJCU1lc3NhZ2U6ICAgIlRlc3Rpbmcgd2l0aCBhcmd1bWVudCAldiIsCgkJQXJndW1lbnRzOiBbXWludGVyZmFjZXt9ezF9LAoJCUxhYmVsczogICAgbWFwW3N0cmluZ11zdHJpbmd7InRlc3QtbGFiZWwiOiAiYWJjIn0sCgl9KQoKCWVyciA9IGxvZ2dlci5DbG9zZSgpCglpZiBlcnIgIT0gbmlsIHsKCQlmbXQuUHJpbnQoZXJyKQoJfQp9Cg==</text>
+        <text encoding="base64">CmltcG9ydCAoCgkiZXJyb3JzIgoJIm5ldC9odHRwIgoJIm5ldC91cmwiCgkic3RyY29udiIKKQoKdHlwZSBhcmVhc0dldEFyZ3Mgc3RydWN0IHsKCUNvbXBhbnkgICAgICBzdHJpbmcgYGpzb246ImNvbXBhbnkiYAoJU3RhdGUgICAgICAgIHN0cmluZyBganNvbjoic3RhdGUiYAoJTXVuaWNpcGFsaXR5IHN0cmluZyBganNvbjoibXVuaWNpcGFsaXR5ImAKCU9mZnNldCAgICAgICB1aW50NjQgYGpzb246IiRvZmZzZXQiYAoJTGltaXQgICAgICAgIHVpbnQ2NCBganNvbjoiJGxpbWl0ImAKfQoKZnVuYyBBcmVhcyh3IGh0dHAuUmVzcG9uc2VXcml0ZXIsIHIgKmh0dHAuUmVxdWVzdCkgewoJLy8gVE9ETyhsdWlzaG9sYW5kYSk6IEF1dGhvcml6YXRpb24KCXN3aXRjaCByLk1ldGhvZCB7CgljYXNlIGh0dHAuTWV0aG9kR2V0OgoJCWFyZ3MsIGVyciA6PSBwYXJzZUFyZWFHZXRBcmdzKHIuRm9ybSkKCQlpZiBlcnIgIT0gbmlsIHsKCQkJaHR0cC5FcnJvcih3LCAiQkFEX1BBUkFNUyIsIGh0dHAuU3RhdHVzQmFkUmVxdWVzdCkKCQl9CgkJYXJlYXNHZXQodywgYXJncykKCWNhc2UgaHR0cC5NZXRob2RQb3N0OgoJZGVmYXVsdDoKCQlodHRwLkVycm9yKHcsICJOT1RfQUxMT1dFRCIsIGh0dHAuU3RhdHVzTWV0aG9kTm90QWxsb3dlZCkKCX0KfQoKZnVuYyBwYXJzZUFyZWFHZXRBcmdzKGZvcm0gdXJsLlZhbHVlcykgKGFyZ3MgKmFyZWFzR2V0QXJncywgZXJyIGVycm9yKSB7Cgljb21wYW55IDo9IGZvcm0uR2V0KCJjb21wYW55IikKCWlmIGxlbihjb21wYW55KSA9PSAwIHsKCQlyZXR1cm4gbmlsLCBlcnJvcnMuTmV3KCJtaXNzaW5nIGNvbXBhbnkgaW4gcXVlcnkgcGFyYW1ldGVycyIpCgl9CgoJc3RhdGUgOj0gZm9ybS5HZXQoInN0YXRlIikKCWlmIHNsIDo9IGxlbihzdGF0ZSk7IHNsID4gMCAmJiBzbCAhPSAyIHsKCQlyZXR1cm4gbmlsLCBlcnJvcnMuTmV3KCJpbnZhbGlkIHN0YXRlIHZhbHVlIGluIHF1ZXJ5IHBhcmFtZXRlcnMiKQoJfQoJbXVuaWNpcGFsaXR5IDo9IGZvcm0uR2V0KCJtdW5pY2lwYWxpdHkiKQoKCW9mZnNldCwgZXJyIDo9IHBhcnNlT3B0aW9uYWxVSW50KGZvcm0uR2V0KCIkb2Zmc2V0IiksIDApCglpZiBlcnIgIT0gbmlsIHsKCQlyZXR1cm4gbmlsLCBlcnJvcnMuTmV3KCJpbnZhbGlkICRvZmZzZXQgdmFsdWUgaW4gcXVlcnkgcGFyYW1ldGVycyIpCgl9CgoJbGltaXQsIGVyciA6PSBwYXJzZU9wdGlvbmFsVUludChmb3JtLkdldCgiJGxpbWl0IiksIDE8PDY0LTEpCglpZiBlcnIgIT0gbmlsIHsKCQlyZXR1cm4gbmlsLCBlcnJvcnMuTmV3KCJpbnZhbGlkICRsaW1pdCB2YWx1ZSBpbiBxdWVyeSBwYXJhbWV0ZXJzIikKCX0KCglyZXR1cm4gJmFyZWFzR2V0QXJnc3sKCQlDb21wYW55OiAgICAgIGNvbXBhbnksCgkJU3RhdGU6ICAgICAgICBzdGF0ZSwKCQlNdW5pY2lwYWxpdHk6IG11bmljaXBhbGl0eSwKCQlPZmZzZXQ6ICAgICAgIG9mZnNldCwKCQlMaW1pdDogICAgICAgIGxpbWl0LAoJfSwgbmlsCn0KCmZ1bmMgYXJlYXNHZXQodyBodHRwLlJlc3BvbnNlV3JpdGVyLCBhcmdzICphcmVhc0dldEFyZ3MpIHsKCn0KCmZ1bmMgcGFyc2VPcHRpb25hbFVJbnQoc3RyIHN0cmluZywgZGVmIHVpbnQ2NCkgKHVpbnQ2NCwgZXJyb3IpIHsKCWlmIGxlbihzdHIpID09IDAgewoJCXJldHVybiBkZWYsIG5pbAoJfQoKCXBhcnNlZCwgZXJyIDo9IHN0cmNvbnYuUGFyc2VVaW50KHN0ciwgMTAsIDY0KQoJaWYgZXJyICE9IG5pbCB7CgkJcmV0dXJuIDAsIGVycgoJfQoKCXJldHVybiBwYXJzZWQsIG5pbAp9Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWZtdE1lc3NhZ2UgOj0gZm10LlNwcmludChlbnRyeS5NZXNzYWdlLCBlbnRyeS5Bcmd1bWVudHMpCg==</text>
+        <text encoding="base64">cGFja2FnZSBhcmVhcwoKaW1wb3J0ICgKImVycm9ycyIKIm5ldC9odHRwIgoibmV0L3VybCIKInN0cmNvbnYiCikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cGFja2FnZSBtYWluCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
