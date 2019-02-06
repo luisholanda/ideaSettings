@@ -25,6 +25,9 @@
       <file name="$USER_HOME$/TerraMagna/repositories/platform/services/pdfDownloadService/package.json" timestamp="1531500241176">
         <mark key="[" line="32" column="15" />
       </file>
+      <file name="$USER_HOME$/TerraMagna/repositories/panoptes_api/entities/grower.go" timestamp="1549473155737">
+        <mark key="[" line="0" column="16" />
+      </file>
       <file name="$USER_HOME$/TerraMagna/repositories/stackdriver_logger/go/main.go" timestamp="1549380928618">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="5" column="31" />
@@ -38,22 +41,26 @@
         <mark key="^" line="58" column="62" />
         <mark key="." line="58" column="62" />
       </file>
-      <file name="$USER_HOME$/TerraMagna/repositories/stackdriver_logger/go/internal/logger.go" timestamp="1549456501643">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/TerraMagna/repositories/panoptes_api/entities/Period.go" timestamp="1549472969586">
+        <mark key="[" line="8" column="1" />
+        <mark key="]" line="4" column="33" />
+        <mark key="^" line="4" column="33" />
+        <mark key="." line="4" column="33" />
       </file>
       <file name="$USER_HOME$/TerraMagna/repositories/panoptes_api/farms/farms.go" timestamp="1549470751531">
         <mark key="[" line="0" column="13" />
-      </file>
-      <file name="$USER_HOME$/TerraMagna/repositories/panoptes_api/entities/monitored.go" timestamp="1549470772681">
-        <mark key="[" line="0" column="16" />
       </file>
       <file name="$USER_HOME$/TerraMagna/repositories/panoptes_api/monitoring.openapi.yaml" timestamp="1549470119850">
         <mark key="[" line="90" column="47" />
         <mark key="]" line="90" column="47" />
         <mark key="^" line="90" column="47" />
         <mark key="." line="90" column="47" />
+      </file>
+      <file name="$USER_HOME$/TerraMagna/repositories/panoptes_api/entities/farm.go" timestamp="1549473094250">
+        <mark key="[" line="11" column="1" />
+        <mark key="]" line="15" column="43" />
+        <mark key="^" line="15" column="43" />
+        <mark key="." line="15" column="43" />
       </file>
       <file name="$USER_HOME$/TerraMagna/repositories/platform/services/pdfDownloadService/src/lib/logger.ts" timestamp="1531500381013">
         <mark key="[" line="10" column="1" />
@@ -114,11 +121,6 @@
         <mark key="^" line="32" column="51" />
         <mark key="." line="32" column="51" />
       </file>
-      <file name="$USER_HOME$/TerraMagna/repositories/stackdriver_logger/go/go.mod" timestamp="1549380697740">
-        <mark key="[" line="0" column="9" />
-        <mark key="]" line="0" column="10" />
-        <mark key="." line="0" column="10" />
-      </file>
       <file name="$USER_HOME$/TerraMagna/repositories/stackdriver_logger/go/tmlogger.go" timestamp="1549457825848">
         <mark key="'" line="45" column="0" />
         <mark key="[" line="38" column="0" />
@@ -126,31 +128,20 @@
         <mark key="^" line="45" column="1" />
         <mark key="." line="38" column="0" />
       </file>
+      <file name="$USER_HOME$/TerraMagna/repositories/panoptes_api/env.go" timestamp="1549473238896">
+        <mark key="[" line="0" column="20" />
+      </file>
       <file name="$USER_HOME$/TerraMagna/repositories/panoptes_api/cloudbuild.yaml" timestamp="1549469780708">
         <mark key="[" line="1" column="17" />
         <mark key="]" line="1" column="41" />
         <mark key="." line="1" column="41" />
         <mark key="^" line="1" column="41" />
       </file>
-      <file name="$USER_HOME$/TerraMagna/repositories/platform/services/pdfDownloadService/src/@types/aws-sdk/lib/util.d.ts" timestamp="1531500312823">
-        <mark key="[" line="0" column="32" />
-        <mark key="]" line="0" column="32" />
-        <mark key="." line="0" column="32" />
-      </file>
-      <file name="$USER_HOME$/TerraMagna/repositories/platform/services/pdfDownloadService/src/lib/pdfFetcher.ts" timestamp="1531500320840">
-        <mark key="[" line="2" column="40" />
-        <mark key="]" line="2" column="40" />
-        <mark key="." line="2" column="40" />
-      </file>
-      <file name="$USER_HOME$/TerraMagna/repositories/stackdriver_logger/go/tmLogger.go" timestamp="1549380626559">
-        <mark key="[" line="107" column="0" />
-        <mark key="]" line="107" column="0" />
-        <mark key="." line="107" column="0" />
-      </file>
-      <file name="$USER_HOME$/TerraMagna/repositories/panoptes_api/go.mod" timestamp="1549467095403">
-        <mark key="]" line="2" column="32" />
-        <mark key="^" line="2" column="32" />
-        <mark key="." line="2" column="32" />
+      <file name="$USER_HOME$/TerraMagna/repositories/panoptes_api/go.mod" timestamp="1549473367452">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="38" />
+        <mark key="^" line="3" column="38" />
+        <mark key="." line="3" column="38" />
       </file>
       <file name="$USER_HOME$/TerraMagna/repositories/panoptes_api/panoptes/monitored.go" timestamp="1549470381356">
         <mark key="[" line="0" column="16" />
@@ -199,32 +190,37 @@
       <register name="0" type="4">
         <text encoding="base64">CWZtdE1lc3NhZ2UgOj0gZW50cnkuTWVzc2FnZQoJaWYgZW50cnkuQXJndW1lbnRzICE9IG5pbCB7CgkJZm10TWVzc2FnZSA9IGZtdC5TcHJpbnQoZW50cnkuTWVzc2FnZSwgZW50cnkuQXJndW1lbnRzKQoJfQ==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgXQo=</text>
+      <register name="1" type="4">
+        <text>struct {
+		Start time.Time `json:&quot;start&quot;`
+		End   time.Time `json:&quot;end&quot;`
+	}</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">ICAgIGFyZ3M6IFsKICAgICAgImdvbWV0YWxpbnRlciIsCiAgICAgICIuLy4uLiIsCiAgICAgICItLWVuYWJsZS1hbGwiLAogICAgICAiLS12ZW5kb3IiLAogICAgICAiLS1jb25jdXJyZW5jeT04IiwKICAgICAgIi0tYWdncmVnYXRlIiwKICAgICAgIi0tc29ydD1wYXRoIgog</text>
+        <text>{
+	
+}</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlpZiByLlBhcnNlRm9ybSgpICE9IG5pbCB7CgkJCWh0dHAuRXJyb3IodywgIjQwMCAtIEJhZCBSZXF1ZXN0IiwgaHR0cC5TdGF0dXNCYWRSZXF1ZXN0KQoJCX0K</text>
+        <text encoding="base64">ICAgXQo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgIGFyZ3M6IFsKICAgICAgImdvbWV0YWxpbnRlciIsCiAgICAgICIuLy4uLiIsCiAgICAgICItLWVuYWJsZS1hbGwiLAogICAgICAiLS12ZW5kb3IiLAogICAgICAiLS1jb25jdXJyZW5jeT04IiwKICAgICAgIi0tYWdncmVnYXRlIiwKICAgICAgIi0tc29ydD1wYXRoIgog</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gIHByb3ZpZGVzIGEgd3JhcHBlciBhcm91bmQgdGhlIEdvb2dsZSBDbG91ZCBTdGFja0RyaXZlciBBUEksCi8vIGZhY2lsaXRhdGluZyB0aGUgdXNhZ2Ugb2YgU3RhY2tEcml2ZXIgaW4gR28gYXBwbGljYXRpb25zLgovLwovLyBFeGFtcGxlIG9mIHVzZToKLy8gPiBsb2dnZXIsIGVyciA6PSB0bWxvZ2dlci5OZXdMb2dnZXIoY3R4LCAiYXBwbGljYXRpb24tbmFtZSIpCi8vID4gbG9nZ2VyLkluZm8oTG9nRW50cnl7IE1lc3NhZ2U6ICJTdGFydCBvZiBhcHBsaWNhdGlvbi4iIH0pCg==</text>
+        <text encoding="base64">CQlpZiByLlBhcnNlRm9ybSgpICE9IG5pbCB7CgkJCWh0dHAuRXJyb3IodywgIjQwMCAtIEJhZCBSZXF1ZXN0IiwgaHR0cC5TdGF0dXNCYWRSZXF1ZXN0KQoJCX0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnVuYyAobCAqTG9jYWxMb2dnZXIpIGxvZ0VudHJ5KGVudHJ5IExvZ0VudHJ5KSB7Cn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CWxvZ2dlci5sb2dnZXIuTG9nKGxvZ2dpbmcuRW50cnl7CgkJUGF5bG9hZDogIGZtdE1lc3NhZ2UsCgkJTGFiZWxzOiAgIGVudHJ5LkxhYmVscywKCQlTZXZlcml0eTogbG9nZ2luZy5BbGVydCwKCX0pCg==</text>
+        <text encoding="base64">Ly8gIHByb3ZpZGVzIGEgd3JhcHBlciBhcm91bmQgdGhlIEdvb2dsZSBDbG91ZCBTdGFja0RyaXZlciBBUEksCi8vIGZhY2lsaXRhdGluZyB0aGUgdXNhZ2Ugb2YgU3RhY2tEcml2ZXIgaW4gR28gYXBwbGljYXRpb25zLgovLwovLyBFeGFtcGxlIG9mIHVzZToKLy8gPiBsb2dnZXIsIGVyciA6PSB0bWxvZ2dlci5OZXdMb2dnZXIoY3R4LCAiYXBwbGljYXRpb24tbmFtZSIpCi8vID4gbG9nZ2VyLkluZm8oTG9nRW50cnl7IE1lc3NhZ2U6ICJTdGFydCBvZiBhcHBsaWNhdGlvbi4iIH0pCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWZtdE1lc3NhZ2UgOj0gZm10LlNwcmludGYoZW50cnkuTWVzc2FnZSwgZW50cnkuQXJndW1lbnRzKQo=</text>
+        <text encoding="base64">ZnVuYyAobCAqTG9jYWxMb2dnZXIpIGxvZ0VudHJ5KGVudHJ5IExvZ0VudHJ5KSB7Cn0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dmFyIG9uY2Ugc3luYy5PbmNlCnZhciBsb2dnZXIgVE1Mb2dnZXIKCg==</text>
+        <text encoding="base64">CWxvZ2dlci5sb2dnZXIuTG9nKGxvZ2dpbmcuRW50cnl7CgkJUGF5bG9hZDogIGZtdE1lc3NhZ2UsCgkJTGFiZWxzOiAgIGVudHJ5LkxhYmVscywKCQlTZXZlcml0eTogbG9nZ2luZy5BbGVydCwKCX0pCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
