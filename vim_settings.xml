@@ -3,7 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/TerraMagna/repositories/panoptes_api/sql/monitoredAreasByCompany.cql" timestamp="1549475909166" />
+      <file name="$USER_HOME$/TerraMagna/repositories/panoptes_api/sql/monitoredAreasByCompany.cql" timestamp="1549479322013">
+        <mark key="]" line="5" column="66" />
+        <mark key="." line="5" column="66" />
+        <mark key="^" line="5" column="66" />
+      </file>
       <file name="$USER_HOME$/TerraMagna/repositories/panoptes_api/panoptes.go" timestamp="1549470420085">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="19" />
@@ -15,9 +19,6 @@
         <mark key="]" line="56" column="6" />
         <mark key="." line="56" column="6" />
         <mark key="^" line="56" column="6" />
-      </file>
-      <file name="$USER_HOME$/TerraMagna/repositories/platform/services/pdfDownloadService/package.json" timestamp="1531500241176">
-        <mark key="[" line="32" column="15" />
       </file>
       <file name="$USER_HOME$/TerraMagna/repositories/panoptes_api/entities/grower.go" timestamp="1549473155737">
         <mark key="[" line="0" column="16" />
@@ -43,8 +44,10 @@
       <file name="$USER_HOME$/TerraMagna/repositories/panoptes_api/farms/farms.go" timestamp="1549470751531">
         <mark key="[" line="0" column="13" />
       </file>
-      <file name="$USER_HOME$/TerraMagna/repositories/panoptes_api/database/internal/monitored.go" timestamp="1549475083319">
-        <mark key="[" line="0" column="16" />
+      <file name="$USER_HOME$/TerraMagna/repositories/panoptes_api/database/internal/monitored.go" timestamp="1549479073313">
+        <mark key="]" line="4" column="16" />
+        <mark key="^" line="4" column="16" />
+        <mark key="." line="4" column="16" />
       </file>
       <file name="$USER_HOME$/TerraMagna/repositories/panoptes_api/monitoring.openapi.yaml" timestamp="1549470119850">
         <mark key="[" line="90" column="47" />
@@ -57,9 +60,6 @@
         <mark key="]" line="15" column="43" />
         <mark key="^" line="15" column="43" />
         <mark key="." line="15" column="43" />
-      </file>
-      <file name="$USER_HOME$/TerraMagna/repositories/platform/services/pdfDownloadService/src/lib/logger.ts" timestamp="1531500381013">
-        <mark key="[" line="10" column="1" />
       </file>
       <file name="$USER_HOME$/TerraMagna/repositories/panoptes_api/functions.go" timestamp="1549470703775">
         <mark key="[" line="7" column="0" />
@@ -85,8 +85,10 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="/Dummy.txt" timestamp="1549475589379">
+      <file name="/Dummy.txt" timestamp="1549479741524">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="16" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/TerraMagna/repositories/panoptes_api/api/monitoring/areas.go" timestamp="1549474668472">
         <mark key="'" line="0" column="0" />
@@ -170,7 +172,7 @@
         <text>fold</text>
       </register>
       <register name="-" type="4">
-        <text>tmlogger</text>
+        <text>postgres</text>
       </register>
       <register name="/" type="4">
         <text>LoggerEntry</text>
@@ -179,38 +181,33 @@
         <text encoding="base64">CWZtdE1lc3NhZ2UgOj0gZW50cnkuTWVzc2FnZQoJaWYgZW50cnkuQXJndW1lbnRzICE9IG5pbCB7CgkJZm10TWVzc2FnZSA9IGZtdC5TcHJpbnQoZW50cnkuTWVzc2FnZSwgZW50cnkuQXJndW1lbnRzKQoJfQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CSJ0ZXJyYW1hZ25hLmNvbS5ici9wYW5vcHRlcyIK</text>
+        <text encoding="base64">Y3JlYXRlIG9yIHJlcGxhY2UgZnVuY3Rpb24gbW9uaXRvcmVkQXJlYXNPZihjb21wYW55IHRleHQpCnJldHVybnMganNvbmIgYXMgJGFyZWFzJApkZWNsYXJlCiAgYXJlYXMganNvbmIKYmVnaW4KZW5kCmxhbmd1YWdlIHBscGdzcWw7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y3JlYXRlIG9yIHJlcGxhY2UgZnVuY3Rpb24gbW9uaXRvcmVkQXJlYXNCeUNvbXBhbnkoY29tcGFueU5hbWUgdGV4dCkKcmV0dXJucyBtb25pdG9yZWRfYXJlYQpiZWdpbgogIHNlbGVjdCBtb25pdG9yZWRfYXJlYSBpbnRvIGZyb20gY29tcGFueQogIGlubmVyIGpvaW4gY29tcGFueV9tb25pdG9yZWRfYXJlYQogIG9uIGNvbXBhbnlfaWQgPSBjb21wYW55LmlkCiAgaW5uZXIgam9pbiBtb25pdG9yZWRfYXJlYQogIG9uIG1vbml0b3JlZF9hcmVhX2lkID0gbW9uaXRvcmVkX2FyZWEuaWQKICB3aGVyZSBjb21wYW55Lm5hbWUgPSBjb21wYW55TmFtZTsKZW5kOwpsYW5ndWFnZSBwbHBxc3FsOwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">CSJ0ZXJyYW1hZ25hLmNvbS5ici9wYW5vcHRlcyIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CSJ0bWxvZ2dlciIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CSJ0ZXJyYW1hZ25hLmNvbS5ici9wYW5vcHRlcyIK</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">CSJ0bWxvZ2dlciIK</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="4">
         <text>r.Error(tmlogger.LogEntry{
 			Message: err.Error(),
 		}</text>
-      </register>
-      <register name="8" type="4">
-        <text>struct {
-		Start time.Time `json:&quot;start&quot;`
-		End   time.Time `json:&quot;end&quot;`
-	}</text>
-      </register>
-      <register name="9" type="4">
-        <text>{
-	
-}</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
