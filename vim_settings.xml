@@ -34,9 +34,6 @@
         <mark key="." line="91" column="61" />
         <mark key="^" line="91" column="61" />
       </file>
-      <file name="$USER_HOME$/TerraMagna/repositories/panoptes_api/entities/grower.go" timestamp="1549473155737">
-        <mark key="[" line="0" column="16" />
-      </file>
       <file name="$USER_HOME$/TerraMagna/repositories/stackdriver_logger/go/main.go" timestamp="1549380928618">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="5" column="31" />
@@ -49,14 +46,17 @@
         <mark key="^" line="4" column="33" />
         <mark key="." line="4" column="33" />
       </file>
+      <file name="$USER_HOME$/TerraMagna/repositories/stackdriver_logger/go/internal/local.go" timestamp="1549571234357">
+        <mark key="[" line="18" column="42" />
+        <mark key="]" line="53" column="48" />
+        <mark key="." line="53" column="48" />
+        <mark key="^" line="53" column="48" />
+      </file>
       <file name="$USER_HOME$/TerraMagna/repositories/panoptes_api/sql/monitoredAreasByCompany.sql" timestamp="1549475310656">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/TerraMagna/repositories/panoptes_api/farms/farms.go" timestamp="1549470751531">
-        <mark key="[" line="0" column="13" />
       </file>
       <file name="$USER_HOME$/TerraMagna/repositories/panoptes_api/entities/monitored.go" timestamp="1549564441023">
         <mark key="[" line="14" column="0" />
@@ -118,7 +118,7 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="/Dummy.txt" timestamp="1549555467030">
+      <file name="/Dummy.txt" timestamp="1549571434295">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="16" />
         <mark key="." line="0" column="0" />
@@ -154,26 +154,24 @@
         <mark key="^" line="44" column="4" />
         <mark key="." line="44" column="4" />
       </file>
+      <file name="$USER_HOME$/TerraMagna/repositories/stackdriver_logger/go/go.mod" timestamp="1549571201386" />
       <file name="$USER_HOME$/TerraMagna/repositories/panoptes_api/env.go" timestamp="1549474345305">
         <mark key="[" line="8" column="30" />
         <mark key="]" line="8" column="0" />
         <mark key="^" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/TerraMagna/repositories/stackdriver_logger/go/tmlogger.go" timestamp="1549568888593">
-        <mark key="[" line="34" column="11" />
-        <mark key="]" line="34" column="20" />
-        <mark key="^" line="34" column="20" />
-        <mark key="." line="34" column="20" />
+      <file name="$USER_HOME$/TerraMagna/repositories/stackdriver_logger/go/tmlogger.go" timestamp="1549571501687">
+        <mark key="[" line="42" column="36" />
+        <mark key="]" line="42" column="53" />
+        <mark key="^" line="42" column="53" />
+        <mark key="." line="42" column="53" />
       </file>
       <file name="$USER_HOME$/TerraMagna/repositories/panoptes_api/go.mod" timestamp="1549486106356">
         <mark key="[" line="4" column="33" />
         <mark key="]" line="4" column="34" />
         <mark key="^" line="4" column="33" />
         <mark key="." line="4" column="34" />
-      </file>
-      <file name="$USER_HOME$/TerraMagna/repositories/panoptes_api/panoptes/monitored.go" timestamp="1549470381356">
-        <mark key="[" line="0" column="16" />
       </file>
       <file name="$USER_HOME$/TerraMagna/repositories/panoptes_api/entities/period.go" timestamp="1549565080776">
         <mark key="[" line="13" column="65" />
@@ -217,7 +215,7 @@
         <text>fold</text>
       </register>
       <register name="-" type="4">
-        <text>C</text>
+        <text>, entry LogEntry</text>
       </register>
       <register name="/" type="4">
         <text>LoggerEntry</text>
