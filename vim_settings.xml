@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/TerraMagna/repositories/panoptes_api/sql/monitoredAreasByCompany.cql" timestamp="1549559785615">
-        <mark key="[" line="93" column="4" />
-        <mark key="]" line="93" column="4" />
-        <mark key="^" line="46" column="11" />
-        <mark key="." line="93" column="4" />
+      <file name="$USER_HOME$/TerraMagna/repositories/panoptes_api/sql/monitoredAreasByCompany.cql" timestamp="1549560360707">
+        <mark key="[" line="109" column="36" />
+        <mark key="]" line="34" column="36" />
+        <mark key="^" line="34" column="36" />
+        <mark key="." line="34" column="36" />
       </file>
       <file name="$USER_HOME$/TerraMagna/repositories/panoptes_api/api/monitoring/areas/association_test.go" timestamp="1549557225713">
         <mark key="[" line="25" column="41" />
