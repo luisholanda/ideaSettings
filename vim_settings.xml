@@ -3,17 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/TerraMagna/repositories/panoptes_api/sql/monitoredAreasByCompany.cql" timestamp="1549484993539">
-        <mark key="[" line="61" column="14" />
-        <mark key="]" line="61" column="16" />
-        <mark key="^" line="61" column="16" />
-        <mark key="." line="61" column="16" />
+      <file name="$USER_HOME$/TerraMagna/repositories/panoptes_api/sql/monitoredAreasByCompany.cql" timestamp="1549559785615">
+        <mark key="[" line="93" column="4" />
+        <mark key="]" line="93" column="4" />
+        <mark key="^" line="46" column="11" />
+        <mark key="." line="93" column="4" />
       </file>
-      <file name="$USER_HOME$/TerraMagna/repositories/panoptes_api/api/monitoring/areas/association_test.go" timestamp="1549547398496">
-        <mark key="[" line="11" column="1" />
-        <mark key="]" line="10" column="25" />
-        <mark key="." line="10" column="25" />
-        <mark key="^" line="10" column="25" />
+      <file name="$USER_HOME$/TerraMagna/repositories/panoptes_api/api/monitoring/areas/association_test.go" timestamp="1549557225713">
+        <mark key="[" line="25" column="41" />
+        <mark key="]" line="25" column="76" />
+        <mark key="^" line="67" column="32" />
+        <mark key="." line="67" column="32" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/100a8a79-7d4e-4c2d-aca5-1633d13248dd/console.sql" timestamp="1549483501533">
         <mark key="[" line="0" column="3" />
@@ -63,12 +63,6 @@
         <mark key="." line="18" column="61" />
         <mark key="^" line="18" column="61" />
       </file>
-      <file name="$USER_HOME$/TerraMagna/repositories/panoptes_api/database/internal/monitored.go" timestamp="1549485105370">
-        <mark key="[" line="0" column="16" />
-        <mark key="]" line="0" column="16" />
-        <mark key="^" line="0" column="16" />
-        <mark key="." line="0" column="16" />
-      </file>
       <file name="$USER_HOME$/TerraMagna/repositories/panoptes_api/monitoring.openapi.yaml" timestamp="1549470119850">
         <mark key="[" line="90" column="47" />
         <mark key="]" line="90" column="47" />
@@ -111,7 +105,7 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="/Dummy.txt" timestamp="1549547143243">
+      <file name="/Dummy.txt" timestamp="1549555467030">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="16" />
         <mark key="." line="0" column="0" />
@@ -141,11 +135,11 @@
         <mark key="^" line="5" column="16" />
         <mark key="." line="5" column="16" />
       </file>
-      <file name="$USER_HOME$/TerraMagna/repositories/panoptes_api/api/monitoring/areas/association.go" timestamp="1549547058512">
-        <mark key="[" line="48" column="5" />
-        <mark key="]" line="50" column="21" />
-        <mark key="^" line="50" column="21" />
-        <mark key="." line="50" column="21" />
+      <file name="$USER_HOME$/TerraMagna/repositories/panoptes_api/api/monitoring/areas/association.go" timestamp="1549556644589">
+        <mark key="[" line="44" column="5" />
+        <mark key="]" line="44" column="4" />
+        <mark key="^" line="44" column="4" />
+        <mark key="." line="44" column="4" />
       </file>
       <file name="$USER_HOME$/TerraMagna/repositories/panoptes_api/env.go" timestamp="1549474345305">
         <mark key="[" line="8" column="30" />
@@ -198,40 +192,47 @@
         <text>fold</text>
       </register>
       <register name="-" type="4">
-        <text>args</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>LoggerEntry</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICBzZWxlY3QgbW9uaXRvcmVkX2FyZWEuKiBmcm9tIGNvbXBhbnkKICBpbm5lciBqb2luIGNvbXBhbnlfbW9uaXRvcmVkX2FyZWEKICBvbiBjb21wYW55X21vbml0b3JlZF9hcmVhLmNvbXBhbnlfaWQgPSBjb21wYW55LmlkCiAgaW5uZXIgam9pbiBtb25pdG9yZWRfYXJlYQogIG9uIGNvbXBhbnlfbW9uaXRvcmVkX2FyZWEubW9uaXRvcmVkX2FyZWFfaWQgPSBtb25pdG9yZWRfYXJlYS5pZDs=</text>
+        <text>47b20d3b-e1d5-4a58-aaaa-1e7d8fda3f5d</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQl9KQoJfSkKfSkK</text>
+      <register name="1" type="4">
+        <text>tmmmmmmmmmmmmmmmmmmmm
+mmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+mmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+mmmmmmmmmmmmmmm</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCXBhcnNlZCwgZXJyIDo9IHBhcnNlQXNzb2NpYXRpb25BcmdzKGJvZHkpCgkJCQnOqShlcnIpLlNob3VsZChCZU5pbCgpKQoJCQkJzqkocGFyc2VkKS5TaG91bGQoRXF1YWwoYXNzb2NpYXRpb25Bcmdze30pKQoJCQl9KQo=</text>
+        <text encoding="base64">CQnOqSgqb3V0cHV0KS5TaG91bGQoRXF1YWwoY29ycmVjdCkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dmFyIF8gPSBEZXNjcmliZSgiQXNzb2NpYXRpb24iLCBmdW5jKCkgewoJRGVzY3JpYmUoIlBhcnNpbmcgYm9keSBhcmd1bWVudHMiLCBmdW5jKCkgewoJCUNvbnRleHQoIndoZW4gYXNzb2NpYXRpbmciLCBmdW5jKCkgewoJCQlib2R5IDo9IGlvdXRpbC5Ob3BDbG9zZXIoYnl0ZXMuTmV3UmVhZGVyKFtdYnl0ZShgewoicmVwb3J0ZXIiOiAiNDdiMjBkM2ItZTFkNS00YTU4LWFhYWEtMWU3ZDhmZGEzZjVkIiwKIm1vbml0b3JlZEFyZWEiOiAiYzVhMmFhODEtY2VmOS00ZTEzLWE5N2YtMzA1NTlmOGJjYjQ0IiwKIm9wZXJhdGlvbiI6ICJhc3NvY2lhdGlvbiIKfWApKSkKCQkJSXQoInNob3VsZCB3b3JrcyBjb3JyZWN0bHkiLCBmdW5jKCkgewo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CS4gImdpdGh1Yi5jb20vb25zaS9naW5rZ28iCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQljb3JyZWN0Lk9wZXJhdGlvbiA9ICJkaXNhc3NvY2lhdGlvbiIK</text>
+      </register>
+      <register name="5" type="4">
+        <text>associationArgs{
+			Reporter:      repUUID,
+			MonitoredArea: maUUID,
+			Operation:     jsonBody.Operation}</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">CWVudiA6PSBlbnZpcm9ubWVudC5HZXRFbnYoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CXJlcFVVSUQsIGVyciA6PSB1dWlkLlBhcnNlKGpzb25Cb2R5LlJlcG9ydGVyKQoJaWYgZXJyICE9IG5pbCB7CgkJcmV0dXJuIG5pbCwgZXJyCgl9CgltYVVVSUQsIGVyciA6PSB1dWlkLlBhcnNlKGpzb25Cb2R5Lk1vbml0b3JlZEFyZWEpCglpZiBlcnIgIT0gbmlsIHsKCQlyZXR1cm4gbmlsLCBlcnIKCX0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CV8gInRlcnJhbWFnbmEuY29tLmJyL3Bhbm9wdGVzL2FwaS9tb25pdG9yaW5nL2FyZWFzIgo=</text>
+        <text encoding="base64">CWpzb25Cb2R5IDo9IG5ldyhzdHJ1Y3QgewoJCVJlcG9ydGVyICAgICAgc3RyaW5nIGBqc29uOiJyZXBvcnRlciJgCgkJTW9uaXRvcmVkQXJlYSBzdHJpbmcgYGpzb246Im1vbml0b3JlZEFyZWEiYAoJCU9wZXJhdGlvbiAgICAgc3RyaW5nIGBqc29uOiJvcGVyYXRpb24iYAoJfSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnVuYyBUZXN0UGFyc2VBc3NvY2lhdGlvbkFyZ3ModCAqdGVzdGluZy5UKSB7CgkKfQo=</text>
+        <text encoding="base64">CQliLlN0b3BUaW1lcigpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
