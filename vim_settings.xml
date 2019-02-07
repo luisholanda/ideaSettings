@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/TerraMagna/repositories/panoptes_api/sql/monitoredAreasByCompany.cql" timestamp="1549560360707">
-        <mark key="[" line="109" column="36" />
-        <mark key="]" line="34" column="36" />
-        <mark key="^" line="34" column="36" />
-        <mark key="." line="34" column="36" />
+      <file name="$USER_HOME$/TerraMagna/repositories/panoptes_api/sql/monitoredAreasByCompany.cql" timestamp="1549564378758">
+        <mark key="[" line="40" column="52" />
+        <mark key="]" line="49" column="21" />
+        <mark key="." line="49" column="21" />
+        <mark key="^" line="49" column="21" />
       </file>
       <file name="$USER_HOME$/TerraMagna/repositories/panoptes_api/api/monitoring/areas/association_test.go" timestamp="1549557225713">
         <mark key="[" line="25" column="41" />
@@ -15,6 +15,7 @@
         <mark key="^" line="67" column="32" />
         <mark key="." line="67" column="32" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1549562656995" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/100a8a79-7d4e-4c2d-aca5-1633d13248dd/console.sql" timestamp="1549483501533">
         <mark key="[" line="0" column="3" />
         <mark key="]" line="4" column="66" />
@@ -57,11 +58,14 @@
       <file name="$USER_HOME$/TerraMagna/repositories/panoptes_api/farms/farms.go" timestamp="1549470751531">
         <mark key="[" line="0" column="13" />
       </file>
-      <file name="$USER_HOME$/TerraMagna/repositories/panoptes_api/entities/monitored.go" timestamp="1549488224022">
-        <mark key="[" line="13" column="27" />
-        <mark key="]" line="18" column="61" />
-        <mark key="." line="18" column="61" />
-        <mark key="^" line="18" column="61" />
+      <file name="$USER_HOME$/TerraMagna/repositories/panoptes_api/entities/monitored.go" timestamp="1549564441023">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="16" column="61" />
+      </file>
+      <file name="$USER_HOME$/TerraMagna/repositories/panoptes_api/database/internal/monitored.go" timestamp="1549564247769">
+        <mark key="[" line="10" column="7" />
       </file>
       <file name="$USER_HOME$/TerraMagna/repositories/panoptes_api/monitoring.openapi.yaml" timestamp="1549470119850">
         <mark key="[" line="90" column="47" />
@@ -156,6 +160,12 @@
       <file name="$USER_HOME$/TerraMagna/repositories/panoptes_api/panoptes/monitored.go" timestamp="1549470381356">
         <mark key="[" line="0" column="16" />
       </file>
+      <file name="$USER_HOME$/TerraMagna/repositories/panoptes_api/entities/period.go" timestamp="1549565080776">
+        <mark key="[" line="13" column="65" />
+        <mark key="]" line="13" column="65" />
+        <mark key="^" line="13" column="65" />
+        <mark key="." line="13" column="65" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="58" column="43" filename="$USER_HOME$/TerraMagna/repositories/platform/services/userAuthService/src/lib/database.ts" />
@@ -192,47 +202,53 @@
         <text>fold</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>LoggerEntry</text>
       </register>
       <register name="0" type="4">
-        <text>47b20d3b-e1d5-4a58-aaaa-1e7d8fda3f5d</text>
+        <text>select ma.*
+        , farmof(ma.id) as farm
+        , growerOf(ma.id) as grower
+   from monitoredareasof(company) as ma</text>
       </register>
-      <register name="1" type="4">
-        <text>tmmmmmmmmmmmmmmmmmmmm
-mmmmmmmmmmmmmmmmmmmmmmmmmmmmm
-mmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
-mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
-mmmmmmmmmmmmmmm</text>
+      <register name="1" type="2">
+        <text encoding="base64">dmFyIGRhdGVyYW5nZVJneCByZWdleHAuUmVnZXhwCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQnOqSgqb3V0cHV0KS5TaG91bGQoRXF1YWwoY29ycmVjdCkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnVuYyBpbml0KCkgewoJdmFyIGVyciBlcnJvcgoJZGF0ZXJhbmdlUmd4LCBlcnIgPSByZWdleHAuQ29tcGlsZSgiXlxbKFswLTldezR9LVswLTldezJ9LSksICgpXCkkIikgCn0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQljb3JyZWN0Lk9wZXJhdGlvbiA9ICJkaXNhc3NvY2lhdGlvbiIK</text>
+        <text encoding="base64">CXRhYmxlTmFtZSBzdHJ1Y3R7fSBgc3FsOiJtb25pdG9yZWRfYXJlYSJgCgo=</text>
       </register>
-      <register name="5" type="4">
-        <text>associationArgs{
-			Reporter:      repUUID,
-			MonitoredArea: maUUID,
-			Operation:     jsonBody.Operation}</text>
+      <register name="5" type="2">
+        <text encoding="base64">ZXhwbGFpbiBhbmFseXplIHNlbGVjdCBtYS4qCiAgICAgICAgICAgICAgICAgICAgICwgZmFybW9mKG1hLmlkKSBhcyBmYXJtCiAgICAgICAgICAgICAgICAgICAgICwgZ3Jvd2VyT2YobWEuaWQpIGFzIGdyb3dlcgogICAgICAgICAgICAgICAgZnJvbSBtb25pdG9yZWRhcmVhc29mKCdhcmFndWFpYScpIGFzIG1hOwo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>table ( id uuid
+              , analysis analysis_enum
+              , interval daterange
+              , farm farm
+              , grower grower
+              )</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CXJlcFVVSUQsIGVyciA6PSB1dWlkLlBhcnNlKGpzb25Cb2R5LlJlcG9ydGVyKQoJaWYgZXJyICE9IG5pbCB7CgkJcmV0dXJuIG5pbCwgZXJyCgl9CgltYVVVSUQsIGVyciA6PSB1dWlkLlBhcnNlKGpzb25Cb2R5Lk1vbml0b3JlZEFyZWEpCglpZiBlcnIgIT0gbmlsIHsKCQlyZXR1cm4gbmlsLCBlcnIKCX0K</text>
+      <register name="7" type="4">
+        <text>table ( id uuid
+              , analysis analysis_enum
+              , interval daterange
+              , farm farm
+              , grower grower
+              )</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWpzb25Cb2R5IDo9IG5ldyhzdHJ1Y3QgewoJCVJlcG9ydGVyICAgICAgc3RyaW5nIGBqc29uOiJyZXBvcnRlciJgCgkJTW9uaXRvcmVkQXJlYSBzdHJpbmcgYGpzb246Im1vbml0b3JlZEFyZWEiYAoJCU9wZXJhdGlvbiAgICAgc3RyaW5nIGBqc29uOiJvcGVyYXRpb24iYAoJfSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQliLlN0b3BUaW1lcigpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -255,10 +271,10 @@ mmmmmmmmmmmmmmm</text>
         <entry>%s/LoggerEntry/LogEntryt</entry>
         <entry>%s/LoggerEntry/LogEntry</entry>
         <entry>action GotoAction</entry>
-        <entry>W</entry>
         <entry>action SearchEverywhere</entry>
         <entry>q</entry>
         <entry>action RecentFiles</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
