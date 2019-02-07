@@ -28,11 +28,11 @@
         <mark key="^" line="0" column="19" />
         <mark key="." line="0" column="19" />
       </file>
-      <file name="$USER_HOME$/TerraMagna/repositories/stackdriver_logger/go/internal/stackdriver.go" timestamp="1549458662490">
-        <mark key="[" line="56" column="10" />
-        <mark key="]" line="56" column="6" />
-        <mark key="." line="56" column="6" />
-        <mark key="^" line="56" column="6" />
+      <file name="$USER_HOME$/TerraMagna/repositories/stackdriver_logger/go/internal/stackdriver.go" timestamp="1549569293692">
+        <mark key="[" line="91" column="21" />
+        <mark key="]" line="91" column="61" />
+        <mark key="." line="91" column="61" />
+        <mark key="^" line="91" column="61" />
       </file>
       <file name="$USER_HOME$/TerraMagna/repositories/panoptes_api/entities/grower.go" timestamp="1549473155737">
         <mark key="[" line="0" column="16" />
@@ -160,6 +160,12 @@
         <mark key="^" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/TerraMagna/repositories/stackdriver_logger/go/tmlogger.go" timestamp="1549568888593">
+        <mark key="[" line="34" column="11" />
+        <mark key="]" line="34" column="20" />
+        <mark key="^" line="34" column="20" />
+        <mark key="." line="34" column="20" />
+      </file>
       <file name="$USER_HOME$/TerraMagna/repositories/panoptes_api/go.mod" timestamp="1549486106356">
         <mark key="[" line="4" column="33" />
         <mark key="]" line="4" column="34" />
@@ -211,7 +217,7 @@
         <text>fold</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>C</text>
       </register>
       <register name="/" type="4">
         <text>LoggerEntry</text>
@@ -223,21 +229,27 @@
    from monitoredareasof(company) as ma</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dmFyIGRhdGVyYW5nZVJneCByZWdleHAuUmVnZXhwCg==</text>
+        <text encoding="base64">CXJlcG9ydGVyICplcnJvcnJlcG9ydGluZy5DbGllbnQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWVudHJ5LkxhYmVsc1siZXJyb3IiXSA9IGVycm9yLkVycm9yKCkKCWVudHJ5LkxhYmVsc1sic3RhY2siXSA9IHN0cmluZyhkZWJ1Zy5TdGFjaygpKQoKCWxvZ2dlci5sb2dFbnRyeShlbnRyeSwgbG9nZ2luZy5BbGVydCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnVuYyBpbml0KCkgewoJdmFyIGVyciBlcnJvcgoJZGF0ZXJhbmdlUmd4LCBlcnIgPSByZWdleHAuQ29tcGlsZSgiXlxbKFswLTldezR9LVswLTldezJ9LSksICgpXCkkIikgCn0K</text>
+        <text encoding="base64">dmFyIGRhdGVyYW5nZVJneCByZWdleHAuUmVnZXhwCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXRhYmxlTmFtZSBzdHJ1Y3R7fSBgc3FsOiJtb25pdG9yZWRfYXJlYSJgCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ZnVuYyBpbml0KCkgewoJdmFyIGVyciBlcnJvcgoJZGF0ZXJhbmdlUmd4LCBlcnIgPSByZWdleHAuQ29tcGlsZSgiXlxbKFswLTldezR9LVswLTldezJ9LSksICgpXCkkIikgCn0K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CXRhYmxlTmFtZSBzdHJ1Y3R7fSBgc3FsOiJtb25pdG9yZWRfYXJlYSJgCgo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ZXhwbGFpbiBhbmFseXplIHNlbGVjdCBtYS4qCiAgICAgICAgICAgICAgICAgICAgICwgZmFybW9mKG1hLmlkKSBhcyBmYXJtCiAgICAgICAgICAgICAgICAgICAgICwgZ3Jvd2VyT2YobWEuaWQpIGFzIGdyb3dlcgogICAgICAgICAgICAgICAgZnJvbSBtb25pdG9yZWRhcmVhc29mKCdhcmFndWFpYScpIGFzIG1hOwo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>table ( id uuid
               , analysis analysis_enum
               , interval daterange
@@ -245,19 +257,13 @@
               , grower grower
               )</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>table ( id uuid
               , analysis analysis_enum
               , interval daterange
               , farm farm
               , grower grower
               )</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
