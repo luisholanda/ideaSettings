@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/TerraMagna/repositories/panoptes_api/sql/monitoredAreasByCompany.cql" timestamp="1549577595076">
-        <mark key="[" line="99" column="0" />
-        <mark key="]" line="50" column="46" />
-        <mark key="." line="50" column="46" />
-        <mark key="^" line="50" column="46" />
+      <file name="$USER_HOME$/TerraMagna/repositories/panoptes_api/sql/monitoredAreasByCompany.cql" timestamp="1549632234175">
+        <mark key="[" line="125" column="14" />
+        <mark key="]" line="124" column="15" />
+        <mark key="." line="124" column="15" />
+        <mark key="^" line="124" column="15" />
       </file>
       <file name="$USER_HOME$/TerraMagna/repositories/panoptes_api/api/monitoring/areas/association_test.go" timestamp="1549557225713">
         <mark key="[" line="25" column="41" />
@@ -106,11 +106,11 @@
         <mark key="^" line="10" column="10" />
         <mark key="." line="10" column="10" />
       </file>
-      <file name="$USER_HOME$/TerraMagna/repositories/panoptes_api/database/monitored.go" timestamp="1549631103881">
-        <mark key="[" line="7" column="17" />
-        <mark key="]" line="34" column="80" />
-        <mark key="^" line="34" column="80" />
-        <mark key="." line="34" column="80" />
+      <file name="$USER_HOME$/TerraMagna/repositories/panoptes_api/database/monitored.go" timestamp="1549631912862">
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
+        <mark key="^" line="61" column="0" />
       </file>
       <file name="$USER_HOME$/TerraMagna/repositories/panoptes_api/functions.go" timestamp="1549470703775">
         <mark key="[" line="7" column="0" />
@@ -292,34 +292,34 @@ func (cc *CtxConn) QueryRow(query string, args ...interface{}) *pgx.Row {
 }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnVuYyBjb21wYW55TW9uaXRvcmVkQXJlYXMoZGIgUXVlcmllciwgc3FsIHN0cmluZywgYXJncyBbXWludGVyZmFjZXt9KSAoW11lbnRpdGllcy5Nb25pdG9yZWRBcmVhLCBlcnJvcikgewoJcm93cywgZXJyIDo9IGRiLlF1ZXJ5KHNxbCwgYXJncy4uLikKCWlmIGVyciAhPSBuaWwgewoJCWVudi5Mb2dnZXIuRFBhbmljKGVycikKCQlyZXR1cm4gbmlsLCBlcnIKCX0KCWRlZmVyIHJvd3MuQ2xvc2UoKQoKCWFyZWFzIDo9IG1ha2UoW11lbnRpdGllcy5Nb25pdG9yZWRBcmVhLCAwKQoJYXJlYSA6PSBuZXcoZW50aXRpZXMuTW9uaXRvcmVkQXJlYSkKCWFyZWFiIDo9IG1ha2UoW11ieXRlLCAwKQoKCWZvciByb3dzLk5leHQoKSB7CgkJaWYgZXJyIDo9IHJvd3MuU2NhbihhcmVhYik7IGVyciAhPSBuaWwgewoJCQllbnYuTG9nZ2VyLkRQYW5pYyhlcnIpCgkJCXJldHVybiBuaWwsIGVycgoJCX0KCQlhcmVhcyA9IGFwcGVuZChhcmVhcywgKmFyZWEpCgl9CgoJcmV0dXJuIGFyZWFzLCBuaWwKfQoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgY29ublRpbWUgPSB0aW1lLkR1cmF0aW9uKDUgKiA2MCAqIDEwMDAgKiAxMDAwKQo=</text>
+        <text encoding="base64">CXJvd3MsIGVyciA6PSBkYi5RdWVyeSgic2VsZWN0IG1vbml0b3JlZGFyZWFzd2l0aGZhcm1vZig/KSIsIGNvbXBhbnkuU3RyaW5nKCkpCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gQ29udGV4dFF1ZXJpZXIgcmVwcmVzZW50cyB0aGUgYWJpbGl0eSB0byBleGVjdXRlIHF1ZXJpZXMgd2l0aGluIGEgY29udGV4dC4KdHlwZSBDb250ZXh0UXVlcmllciBpbnRlcmZhY2UgewoJRXhlY0NvbnRleHQoY3R4IGNvbnRleHQuQ29udGV4dCwgcXVlcnkgc3RyaW5nLCBhcmdzIC4uLmludGVyZmFjZXt9KSAocGd4LkNvbW1hbmRUYWcsIGVycm9yKQoJUXVlcnlDb250ZXh0KGN0eCBjb250ZXh0LkNvbnRleHQsIHF1ZXJ5IHN0cmluZywgYXJncyAuLi5pbnRlcmZhY2V7fSkgKCpwZ3guUm93cywgZXJyb3IpCglRdWVyeVJvd0NvbnRleHQoY3R4IGNvbnRleHQuQ29udGV4dCwgcXVlcnkgc3RyaW5nLCBhcmdzIC4uLmludGVyZmFjZXt9KSAqcGd4LlJvdwp9Cg==</text>
+        <text encoding="base64">Y29uc3QgY29ublRpbWUgPSB0aW1lLkR1cmF0aW9uKDUgKiA2MCAqIDEwMDAgKiAxMDAwKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CSJkYXRhYmFzZS9zcWwiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CWZtdC5GcHJpbnQoKQo=</text>
+        <text encoding="base64">Ly8gQ29udGV4dFF1ZXJpZXIgcmVwcmVzZW50cyB0aGUgYWJpbGl0eSB0byBleGVjdXRlIHF1ZXJpZXMgd2l0aGluIGEgY29udGV4dC4KdHlwZSBDb250ZXh0UXVlcmllciBpbnRlcmZhY2UgewoJRXhlY0NvbnRleHQoY3R4IGNvbnRleHQuQ29udGV4dCwgcXVlcnkgc3RyaW5nLCBhcmdzIC4uLmludGVyZmFjZXt9KSAocGd4LkNvbW1hbmRUYWcsIGVycm9yKQoJUXVlcnlDb250ZXh0KGN0eCBjb250ZXh0LkNvbnRleHQsIHF1ZXJ5IHN0cmluZywgYXJncyAuLi5pbnRlcmZhY2V7fSkgKCpwZ3guUm93cywgZXJyb3IpCglRdWVyeVJvd0NvbnRleHQoY3R4IGNvbnRleHQuQ29udGV4dCwgcXVlcnkgc3RyaW5nLCBhcmdzIC4uLmludGVyZmFjZXt9KSAqcGd4LlJvdwp9Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ZGIuZGIuQmVnaW5UeChjdHgsICZzcWwuVHhPcHRpb25zewoJCUlzb2xhdGlvbjogc3FsLkxldmVsTGluZWFyaXphYmxlLAoJfSk=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ZnVuYyAoZGIgUGFub3B0ZXNEQikgQ29ubihjdHggY29udGV4dC5Db250ZXh0KSAoKnNxbC5Db25uLCBlcnJvcikgewoJcmV0dXJuIGRiLmRiLgp9Cg==</text>
-      </register>
-      <register name="9" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CSJkYXRhYmFzZS9zcWwiCg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">CWZtdC5GcHJpbnQoKQo=</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">ZGIuZGIuQmVnaW5UeChjdHgsICZzcWwuVHhPcHRpb25zewoJCUlzb2xhdGlvbjogc3FsLkxldmVsTGluZWFyaXphYmxlLAoJfSk=</text>
+      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>e</text>
       </register>
     </registers>
     <search>
@@ -345,6 +345,7 @@ func (cc *CtxConn) QueryRow(query string, args ...interface{}) *pgx.Row {
         <entry>q</entry>
         <entry>action RecentFiles</entry>
         <entry>w</entry>
+        <entry>e</entry>
       </history-cmd>
       <history-expr />
       <history-input />
