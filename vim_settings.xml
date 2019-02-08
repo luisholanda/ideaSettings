@@ -33,12 +33,12 @@
         <mark key="." line="91" column="61" />
         <mark key="^" line="91" column="61" />
       </file>
-      <file name="$USER_HOME$/TerraMagna/repositories/panoptes_api/database/conn.go" timestamp="1549643859959">
+      <file name="$USER_HOME$/TerraMagna/repositories/panoptes_api/database/conn.go" timestamp="1549659637079">
         <mark key="'" line="15" column="0" />
-        <mark key="[" line="5" column="65" />
-        <mark key="]" line="6" column="83" />
-        <mark key="^" line="6" column="83" />
-        <mark key="." line="6" column="83" />
+        <mark key="[" line="32" column="5" />
+        <mark key="]" line="33" column="0" />
+        <mark key="^" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/TerraMagna/repositories/stackdriver_logger/go/main.go" timestamp="1549380928618">
         <mark key="[" line="11" column="0" />
@@ -111,6 +111,12 @@
         <mark key="^" line="8" column="52" />
         <mark key="." line="8" column="52" />
       </file>
+      <file name="$USER_HOME$/TerraMagna/repositories/panoptes_api/database/reporter.go" timestamp="1549659028207">
+        <mark key="[" line="12" column="28" />
+        <mark key="]" line="29" column="21" />
+        <mark key="." line="29" column="21" />
+        <mark key="^" line="29" column="21" />
+      </file>
       <file name="$USER_HOME$/TerraMagna/repositories/panoptes_api/monitored/areas.go" timestamp="1549470500048">
         <mark key="[" line="2" column="7" />
         <mark key="]" line="2" column="8" />
@@ -141,10 +147,11 @@
         <mark key="^" line="13" column="24" />
         <mark key="." line="13" column="24" />
       </file>
-      <file name="$USER_HOME$/TerraMagna/repositories/panoptes_api/database/querier.go" timestamp="1549629276370">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/TerraMagna/repositories/panoptes_api/database/querier.go" timestamp="1549659188179">
+        <mark key="[" line="6" column="7" />
+        <mark key="]" line="7" column="9" />
+        <mark key="." line="7" column="9" />
+        <mark key="^" line="7" column="9" />
       </file>
       <file name="$USER_HOME$/TerraMagna/repositories/platform/services/userAuthService/src/service.ts" timestamp="1531521581062">
         <mark key="[" line="13" column="25" />
@@ -163,6 +170,12 @@
         <mark key="]" line="5" column="16" />
         <mark key="^" line="5" column="16" />
         <mark key="." line="5" column="16" />
+      </file>
+      <file name="$USER_HOME$/TerraMagna/repositories/panoptes_api/api/monitoring/areas/association.go" timestamp="1549659310595">
+        <mark key="[" line="5" column="4" />
+        <mark key="]" line="5" column="4" />
+        <mark key="." line="5" column="4" />
+        <mark key="^" line="5" column="4" />
       </file>
       <file name="$USER_HOME$/TerraMagna/repositories/panoptes_api/env/errors.go" timestamp="1549575582708">
         <mark key="[" line="9" column="0" />
@@ -187,6 +200,12 @@
         <mark key="]" line="0" column="26" />
         <mark key="^" line="0" column="26" />
         <mark key="." line="0" column="26" />
+      </file>
+      <file name="$USER_HOME$/TerraMagna/repositories/panoptes_api/database/company.go" timestamp="1549660516995">
+        <mark key="[" line="18" column="19" />
+        <mark key="]" line="19" column="28" />
+        <mark key="." line="19" column="28" />
+        <mark key="^" line="19" column="28" />
       </file>
       <file name="$USER_HOME$/TerraMagna/repositories/panoptes_api/env/database.go" timestamp="1549644032352">
         <mark key="[" line="52" column="19" />
@@ -251,7 +270,7 @@
         <text>fold</text>
       </register>
       <register name="-" type="4">
-        <text>64</text>
+        <text encoding="base64">ZXJyIDo9IGNvbXAuU2Nhbihjb21wTmFtZSk7IA==</text>
       </register>
       <register name="/" type="4">
         <text>LoggerEntry</text>
@@ -273,34 +292,34 @@ func (cc *CtxConn) QueryRow(query string, args ...interface{}) *pgx.Row {
 }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXJldHVybiBlcnIgPT0gcGd4LkVyck5vUm93cywgbmlsCg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CWlmIGxlbihtYXMpID09IDAgewoJCWNvbW1vbi5TdHJ1Y3R1cmVkRXJyb3IodywgaHR0cC5TdGF0dXNOb3RGb3VuZCwgY29tbW9uLkFQSUVycm9yewoJCQlDb2RlOiAgICAiQ09NUEFOWV9OT1RGT1VORCIsCgkJCU1lc3NhZ2U6ICJDb21wYW55IG5vdCBmb3VuZCIsCgkJfSkKCX0=</text>
+      <register name="2" type="2">
+        <text encoding="base64">CglyZXR1cm4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAsIGdyb3dlciBncm93ZXIK</text>
+        <text encoding="base64">CglyZXR1cm4gdHJ1ZSwgbmlsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CUdyb3dlciAgIEdyb3dlciAgICBganNvbjoiZ3Jvd2VyImAK</text>
+        <text encoding="base64">CQlyZXR1cm4gZmFsc2UsIG5pbAoJfQoKCXJldHVybiB0cnVlLCBuaWwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBncm93ZXI6CiAgICAgICAgICAkcmVmOiAiIy9jb21wb25lbnRzL3NjaGVtYXMvR3Jvd2VyIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXZhciBlcnIgZXJyb3IK</text>
+        <text encoding="base64">CXN3aXRjaCBhcmdzLk9wZXJhdGlvbiB7CgljYXNlICJhc3NvY2lhdGlvbiI6CgkJZXJyIDo9IGRhdGFiYXNlLkFzc29jaWF0ZShyLkNvbnRleHQoKSwgYXJncy5Nb25pdG9yZWRBcmVhLCBhcmdzLlJlcG9ydGVyKQoJfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CWFyZWEgOj0gbmV3KGVudGl0aWVzLk1vbml0b3JlZEFyZWEpCglhcmVhYiA6PSBtYWtlKFtdYnl0ZSwgMCkK</text>
+        <text encoding="base64">CQlpZiBlcnIgIT0gbmlsIHsKCQl9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXZhciBpZCBwZ3R5cGUuVVVJRAoJdmFyCg==</text>
+        <text encoding="base64">CUV4ZWMocXVlcnkgc3RyaW5nLCBhcmdzIC4uLmludGVyZmFjZXt9KSAocGd4LkNvbW1hbmRUYWcsIGVycm9yKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnVuYyBjb21wYW55TW9uaXRvcmVkQXJlYXMoZGIgUXVlcmllciwgc3FsIHN0cmluZywgYXJncyBbXWludGVyZmFjZXt9KSAoW11lbnRpdGllcy5Nb25pdG9yZWRBcmVhLCBlcnJvcikgewoJcm93cywgZXJyIDo9IGRiLlF1ZXJ5KHNxbCwgYXJncy4uLikKCWlmIGVyciAhPSBuaWwgewoJCWVudi5Mb2dnZXIuRFBhbmljKGVycikKCQlyZXR1cm4gbmlsLCBlcnIKCX0KCWRlZmVyIHJvd3MuQ2xvc2UoKQoKCWFyZWFzIDo9IG1ha2UoW11lbnRpdGllcy5Nb25pdG9yZWRBcmVhLCAwKQoJYXJlYSA6PSBuZXcoZW50aXRpZXMuTW9uaXRvcmVkQXJlYSkKCWFyZWFiIDo9IG1ha2UoW11ieXRlLCAwKQoKCWZvciByb3dzLk5leHQoKSB7CgkJaWYgZXJyIDo9IHJvd3MuU2NhbihhcmVhYik7IGVyciAhPSBuaWwgewoJCQllbnYuTG9nZ2VyLkRQYW5pYyhlcnIpCgkJCXJldHVybiBuaWwsIGVycgoJCX0KCQlhcmVhcyA9IGFwcGVuZChhcmVhcywgKmFyZWEpCgl9CgoJcmV0dXJuIGFyZWFzLCBuaWwKfQoK</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoAction</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -325,8 +344,8 @@ func (cc *CtxConn) QueryRow(query string, args ...interface{}) *pgx.Row {
         <entry>q</entry>
         <entry>action RecentFiles</entry>
         <entry>e</entry>
-        <entry>w</entry>
         <entry>action GotoAction</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
