@@ -205,8 +205,11 @@
         <mark key="^" line="42" column="53" />
         <mark key="." line="42" column="53" />
       </file>
-      <file name="$USER_HOME$/Library/Application Support/JetBrains/Toolbox/apps/Goland/ch-0/183.5153.54/GoLand.app.vmoptions" timestamp="1549898376877">
+      <file name="$USER_HOME$/Library/Application Support/JetBrains/Toolbox/apps/Goland/ch-0/183.5153.54/GoLand.app.vmoptions" timestamp="1549898586463">
         <mark key="[" line="1" column="7" />
+        <mark key="]" line="19" column="29" />
+        <mark key="^" line="19" column="29" />
+        <mark key="." line="19" column="29" />
       </file>
       <file name="$USER_HOME$/TerraMagna/repositories/panoptes_api/internal/stackdriver_logger/go/go.mod" timestamp="1549630611219">
         <mark key="[" line="0" column="31" />
