@@ -43,6 +43,7 @@
         <mark key="^" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
+      <file name="$USER_HOME$/TerraMagna/repositories/panoptes_api/sql/monitored_areas.sql" timestamp="1549900996687" />
       <file name="$USER_HOME$/TerraMagna/repositories/stackdriver_logger/go/main.go" timestamp="1549380928618">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="5" column="31" />
@@ -111,7 +112,6 @@
       <file name="/panoptes.public.monitored_area_reporter [postgres@panoptes]" timestamp="1549891490166">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/TerraMagna/repositories/panoptes_api/sql/db_creation.sql" timestamp="1549893462205" />
       <file name="$USER_HOME$/TerraMagna/repositories/panoptes_api/functions.go" timestamp="1549470703775">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="8" column="52" />
