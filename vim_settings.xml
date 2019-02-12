@@ -30,11 +30,11 @@
         <mark key="." line="53" column="48" />
         <mark key="^" line="53" column="48" />
       </file>
-      <file name="$USER_HOME$/TerraMagna/repositories/panoptes_api/api/common/error.go" timestamp="1549986275987">
-        <mark key="[" line="40" column="39" />
-        <mark key="]" line="40" column="83" />
-        <mark key="." line="40" column="83" />
-        <mark key="^" line="40" column="83" />
+      <file name="$USER_HOME$/TerraMagna/repositories/panoptes_api/api/common/error.go" timestamp="1549996046052">
+        <mark key="[" line="43" column="21" />
+        <mark key="]" line="43" column="21" />
+        <mark key="." line="43" column="21" />
+        <mark key="^" line="43" column="21" />
       </file>
       <file name="$USER_HOME$/TerraMagna/repositories/panoptes_api/env/closer.go" timestamp="1549572062627">
         <mark key="[" line="4" column="32" />
@@ -60,11 +60,11 @@
         <mark key="^" line="2" column="8" />
         <mark key="." line="2" column="8" />
       </file>
-      <file name="$USER_HOME$/TerraMagna/repositories/panoptes_api/api/monitoring/areas/company.go" timestamp="1549989229529">
-        <mark key="[" line="63" column="21" />
-        <mark key="]" line="63" column="20" />
-        <mark key="." line="63" column="20" />
-        <mark key="^" line="63" column="20" />
+      <file name="$USER_HOME$/TerraMagna/repositories/panoptes_api/api/monitoring/areas/company.go" timestamp="1549997749687">
+        <mark key="[" line="56" column="19" />
+        <mark key="]" line="57" column="34" />
+        <mark key="^" line="57" column="34" />
+        <mark key="." line="57" column="34" />
       </file>
       <file name="/panoptes.public.company_monitored_area [postgres@panoptes]" timestamp="1549987987656">
         <mark key="[" line="0" column="0" />
@@ -142,21 +142,21 @@
         <mark key="." line="106" column="0" />
         <mark key="^" line="123" column="10" />
       </file>
-      <file name="$USER_HOME$/TerraMagna/repositories/panoptes_api/api/monitoring/areas/association_test.go" timestamp="1549988530363">
+      <file name="$USER_HOME$/TerraMagna/repositories/panoptes_api/api/monitoring/areas/association_test.go" timestamp="1549997843657">
         <mark key="'" line="104" column="4" />
-        <mark key="[" line="104" column="0" />
-        <mark key="]" line="108" column="6" />
-        <mark key="^" line="67" column="32" />
-        <mark key="." line="104" column="0" />
+        <mark key="[" line="108" column="6" />
+        <mark key="]" line="109" column="0" />
+        <mark key="^" line="109" column="0" />
+        <mark key="." line="109" column="0" />
       </file>
       <file name="/panoptes.public.company [postgres@panoptes]" timestamp="1549989343207">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/TerraMagna/repositories/panoptes_api/api/monitoring/areas/company_test.go" timestamp="1549989689318">
-        <mark key="[" line="35" column="55" />
-        <mark key="]" line="35" column="54" />
-        <mark key="^" line="35" column="54" />
-        <mark key="." line="35" column="54" />
+      <file name="$USER_HOME$/TerraMagna/repositories/panoptes_api/api/monitoring/areas/company_test.go" timestamp="1549999321263">
+        <mark key="[" line="10" column="4" />
+        <mark key="]" line="8" column="30" />
+        <mark key="." line="8" column="30" />
+        <mark key="^" line="8" column="30" />
       </file>
       <file name="$USER_HOME$/TerraMagna/repositories/panoptes_api/panoptes.go" timestamp="1549470420085">
         <mark key="[" line="0" column="0" />
@@ -208,11 +208,11 @@
         <mark key="^" line="6" column="24" />
         <mark key="." line="6" column="24" />
       </file>
-      <file name="$USER_HOME$/TerraMagna/repositories/panoptes_api/database/monitored.go" timestamp="1549917369834">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="49" column="37" />
-        <mark key="." line="49" column="37" />
-        <mark key="^" line="49" column="37" />
+      <file name="$USER_HOME$/TerraMagna/repositories/panoptes_api/database/monitored.go" timestamp="1549997719150">
+        <mark key="[" line="14" column="70" />
+        <mark key="]" line="22" column="58" />
+        <mark key="^" line="22" column="58" />
+        <mark key="." line="22" column="58" />
       </file>
       <file name="/panoptes.public.monitored_area_reporter [postgres@panoptes]" timestamp="1549891490166">
         <mark key="[" line="0" column="0" />
@@ -232,13 +232,19 @@
       <file name="/dummy.sql" timestamp="1549989425965">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/TerraMagna/repositories/panoptes_api/api/common/response.go" timestamp="1549999101328">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="7" column="68" />
+        <mark key="." line="7" column="68" />
+        <mark key="^" line="7" column="68" />
+      </file>
       <file name="$USER_HOME$/TerraMagna/repositories/panoptes_api/api/error.go" timestamp="1549465955237">
         <mark key="[" line="0" column="13" />
         <mark key="]" line="0" column="10" />
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="/Dummy.txt" timestamp="1549989003273">
+      <file name="/Dummy.txt" timestamp="1549999372277">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="16" />
         <mark key="." line="0" column="0" />
@@ -249,11 +255,11 @@
         <mark key="^" line="5" column="16" />
         <mark key="." line="5" column="16" />
       </file>
-      <file name="$USER_HOME$/TerraMagna/repositories/panoptes_api/api/monitoring/areas/association.go" timestamp="1549911293578">
-        <mark key="[" line="50" column="36" />
-        <mark key="]" line="50" column="36" />
-        <mark key="." line="50" column="36" />
-        <mark key="^" line="50" column="36" />
+      <file name="$USER_HOME$/TerraMagna/repositories/panoptes_api/api/monitoring/areas/association.go" timestamp="1549998255039">
+        <mark key="[" line="39" column="9" />
+        <mark key="]" line="40" column="38" />
+        <mark key="." line="40" column="38" />
+        <mark key="^" line="40" column="38" />
       </file>
       <file name="$USER_HOME$/TerraMagna/repositories/panoptes_api/env/errors.go" timestamp="1549575582708">
         <mark key="[" line="9" column="0" />
@@ -335,7 +341,7 @@
         <text>fold</text>
       </register>
       <register name="-" type="4">
-        <text>parseAreaGetArgs</text>
+        <text>sojn</text>
       </register>
       <register name="/" type="4">
         <text>Expect</text>
@@ -343,35 +349,35 @@
       <register name="0" type="4">
         <text encoding="base64">CQlpbnB1dCwgXyA6PSBqc29uLk1hcnNoYWwocGFyc2VBc3NvY2lhdGlvbklucHV0ewoJCQlSZXBvcnRlcjogICAgICByZXBVVUlELlN0cmluZygpLAoJCQlNb25pdG9yZWRBcmVhOiBtYVVVSUQuU3RyaW5nKCksCgkJCU9wZXJhdGlvbjogICAgICJhc3NvY2lhdGlvbiIsCgkJfSk=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQlpbnB1dCA6PSB1cmwuVmFsdWVzeyBDb21wYW55OiAgICAgIGNvbXBhbnlIYXNNb25pdG9yZWRBcmVhcywKCQkJU3RhdGU6ICAgICAgICBjb3JyZWN0LlN0YXRlLAoJCQlNdW5pY2lwYWxpdHk6IGNvcnJlY3QuTXVuaWNpcGFsaXR5LAoJCQlPZmZzZXQ6ICAgICAgIGNvcnJlY3QuT2Zmc2V0LAoJCQlMaW1pdDogICAgICAgIGNvcnJlY3QuTGltaXQsCgkJfSkK</text>
+      <register name="1" type="4">
+        <text encoding="base64">aWYgZXJyICE9IG5pbCAmJiBlcnIgIT0gZGF0YWJhc2UuRXJyQWxyZWFkeUFzc29jaWF0ZWQgewoJCQljb21tb24uSW50ZXJuYWxFcnJvcih3LCBlcnIpCgkJfSBlbHNlIA==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQl1cmwuVmFsdWVze30K</text>
+        <text encoding="base64">CQlodHRwLkVycm9yKHcsICI0MDAgLSBCYWQgUmVxdWVzdCIsIGh0dHAuU3RhdHVzQmFkUmVxdWVzdCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CS4gInRlcnJhbWFnbmEuY29tLmJyL3Bhbm9wdGVzL2FwaS9tb25pdG9yaW5nL2FyZWFzIgo=</text>
+        <text encoding="base64">CQkJY29tbW9uLlN0cnVjdHVyZWRFcnJvcih3LCA1MDAsIGNvbW1vbi5BUElFcnJvcnsKCQkJCUNvZGU6ICAgICJJTlRFUk5BTF9FUlJPUiIsCgkJCQlNZXNzYWdlOiBlcnIuRXJyb3IoKSwKCQkJfSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CWNvbm5TdHJpbmcgOj0gZm10LlNwcmludGYoInBvc3RncmVzQGNsb3Vkc3FsKCV2KS9wYW5vcHRlcyIsIGluc3RhbmNlKQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">CQlpbnB1dCwgXyA6PSBqc29uLk1hcnNoYWwocGFyc2VBc3NvY2lhdGlvbklucHV0ewoJCQlSZXBvcnRlcjogICAgICByZXBVVUlELlN0cmluZygpLAoJCQlNb25pdG9yZWRBcmVhOiBtYVVVSUQuU3RyaW5nKCksCgkJCU9wZXJhdGlvbjogICAgICJhc3NvY2lhdGlvbiIsCgkJfSkK</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQlodHRwLkVycm9yKHcsICI1MDAgLSBpbnRlcm5hbCBzZXJ2ZXIgZXJyb3IiLCBodHRwLlN0YXR1c0ludGVybmFsU2VydmVyRXJyb3IpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9ybWF0OiB1dWlkCg==</text>
+        <text encoding="base64">CXZhciBxdWVyeVN0ciBzdHJpbmcKCXZhciBhcmdzIFtdaW50ZXJmYWNle30K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXZhciBlcnIgZXJyb3IKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CXN0YXRlIDo9IGZvcm0uR2V0KCJzdGF0ZSIpCglpZiBzbCA6PSBsZW4oc3RhdGUpOyBzbCA+IDAgJiYgc2wgIT0gMiB7CgkJcmV0dXJuIG5pbCwgZXJyb3JzLk5ldygiaW52YWxpZCBzdGF0ZSB2YWx1ZSBpbiBxdWVyeSBwYXJhbWV0ZXJzIikKCX0KCW11bmljaXBhbGl0eSA6PSBmb3JtLkdldCgibXVuaWNpcGFsaXR5IikK</text>
+        <text encoding="base64">CXZhciBxdWVyeVN0ciBzdHJpbmcKCXZhciBhcmdzIFtdaW50ZXJmYWNle30KCglzd2l0Y2ggewoJY2FzZSBxdWVyeS5Mb2NhbGl0eSA9PSBuaWwgfHwgbGVuKHF1ZXJ5LkxvY2FsaXR5LlN0YXRlKSA9PSAwOgoJCXF1ZXJ5U3RyID0gYmFzZVF1ZXJ5CgkJYXJncyA9IFtdaW50ZXJmYWNle317cXVlcnkuQ29tcGFueX0KCWNhc2UgbGVuKHF1ZXJ5LkxvY2FsaXR5Lk11bmljaXBhbGl0eSkgIT0gMDoKCQlxdWVyeVN0ciA9IHdpdGhMb2NhdGlvbgoJCWFyZ3MgPSBbXWludGVyZmFjZXt9e3F1ZXJ5LkNvbXBhbnksIHF1ZXJ5LkxvY2FsaXR5LlN0YXRlLCBxdWVyeS5Mb2NhbGl0eS5NdW5pY2lwYWxpdHl9CglkZWZhdWx0OgoJCXF1ZXJ5U3RyID0gd2l0aFN0YXRlCgkJYXJncyA9IFtdaW50ZXJmYWNle317cXVlcnkuQ29tcGFueSwgcXVlcnkuTG9jYWxpdHkuU3RhdGV9Cgl9CgoJYXJncyA9IGFwcGVuZChhcmdzLCBbXWludGVyZmFjZXt9e3F1ZXJ5Lk9mZnNldCwgcXVlcnkuTGltaXR9Li4uKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action GotoAction</text>
       </register>
     </registers>
     <search>
@@ -391,16 +397,18 @@
         <entry>w;</entry>
         <entry>%s/LoggerEntry/LogEntryt</entry>
         <entry>%s/LoggerEntry/LogEntry</entry>
-        <entry>W</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>e</entry>
         <entry>%s/Expect/Ω</entry>
         <entry>action SearchEverywhere</entry>
-        <entry>action GotoAction</entry>
-        <entry>action RecentFiles</entry>
-        <entry>q</entry>
         <entry>action Forward</entry>
+        <entry>action Run</entry>
+        <entry>W</entry>
+        <entry encoding="base64">JzwsJz53</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action RecentFiles</entry>
         <entry>w</entry>
+        <entry>q</entry>
+        <entry>action GotoAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -408,6 +416,9 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>shift ctrl pressed 2</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
