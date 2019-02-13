@@ -99,10 +99,10 @@
         <mark key="^" line="8" column="22" />
         <mark key="." line="8" column="22" />
       </file>
-      <file name="$USER_HOME$/TerraMagna/repositories/panoptes_api/api/identity/auth/login.go" timestamp="1550069713203">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
+      <file name="$USER_HOME$/TerraMagna/repositories/panoptes_api/api/identity/auth/login.go" timestamp="1550071864964">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/TerraMagna/repositories/panoptes_api/env.go" timestamp="1549474345305">
         <mark key="[" line="8" column="30" />
@@ -362,25 +362,25 @@
         <text encoding="base64">CSJ0aW1lIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CS8vIENsb3NlIGJvZHkgcmVxdWVzdCBhdCB0aGUgZW5kCg==</text>
+        <text encoding="base64">CSJ0aW1lIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CS8vIFNldCBSZXBvcnRlciBMYXN0IExvZ2luCg==</text>
+        <text encoding="base64">CSJ0aW1lIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CS8vIEdlbmVyYXRlIFRva2VuCg==</text>
+        <text encoding="base64">CSJ0aW1lIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CS8vIEVuZCBhbmQgcmVzcG9uc2Ugb2YgdGhlIHJlcXVlc3QK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CS8vIENoZWNrIGlmIERCIHBhc3N3b3JkIGFuZCBsb2dpbkZvcm0gcGFzc3dvcmQgYXJlIGVxdWFsCg==</text>
+        <text encoding="base64">CSJ0aW1lIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CS8vIEdldCBSZXBvcnRlciBJbmZvIGZyb20gZW1haWwK</text>
+        <text encoding="base64">CS8vIENsb3NlIGJvZHkgcmVxdWVzdCBhdCB0aGUgZW5kCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CS8vIFNldCBSZXBvcnRlciBMYXN0IExvZ2luCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -417,10 +417,10 @@
         <entry>action SearchEverywhere</entry>
         <entry>action Forward</entry>
         <entry>action Run</entry>
-        <entry>action GotoAction</entry>
         <entry>q</entry>
         <entry>action RecentFiles</entry>
         <entry>W</entry>
+        <entry>action GotoAction</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
