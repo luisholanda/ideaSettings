@@ -93,6 +93,13 @@
       <file name="$USER_HOME$/TerraMagna/repositories/platform/services/pdfDownloadService/src/lib/logger.ts" timestamp="1531500381013">
         <mark key="[" line="10" column="1" />
       </file>
+      <file name="$USER_HOME$/ITA/cci36/tarefa3/src/index.ts" timestamp="1556573622127">
+        <mark key="'" line="40" column="46" />
+        <mark key="[" line="63" column="5" />
+        <mark key="]" line="57" column="15" />
+        <mark key="." line="57" column="15" />
+        <mark key="^" line="57" column="15" />
+      </file>
       <file name="$USER_HOME$/TerraMagna/repositories/platform/services/userAuthService/src/index.ts" timestamp="1531499670964">
         <mark key="'" line="11" column="23" />
         <mark key="[" line="9" column="9" />
@@ -131,6 +138,7 @@
       <jump line="158" column="17" filename="$USER_HOME$/TerraMagna/repositories/fides_platform/front/src/components/report/BiomassCard.vue" />
       <jump line="160" column="17" filename="$USER_HOME$/TerraMagna/repositories/fides_platform/front/src/components/report/BiomassCard.vue" />
       <jump line="134" column="75" filename="$USER_HOME$/TerraMagna/repositories/fides_platform/front/src/components/report/BiomassCard.vue" />
+      <jump line="29" column="46" filename="$USER_HOME$/ITA/cci36/tarefa3/src/index.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -156,40 +164,50 @@
         <text>2jdd</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>mapboxgl-interactive</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5tYXAhLmJveFpvb20uZGlzYWJsZSgpOwogICAgICB0aGlzLm1hcCEuc2Nyb2xsWm9vbS5kaXNhYmxlKCk7CiAgICAgIHRoaXMubWFwIS5kcmFnUGFuLmRpc2FibGUoKTsKICAgICAgdGhpcy5tYXAhLmRyYWdSb3RhdGUuZGlzYWJsZSgpOwogICAgICB0aGlzLm1hcCEua2V5Ym9hcmQuZGlzYWJsZSgpOwogICAgICB0aGlzLm1hcCEuZG91YmxlQ2xpY2tab29tLmRpc2FibGUoKTsKICAgICAgdGhpcy5tYXAhLnRvdWNoWm9vbVJvdGF0ZS5kaXNhYmxlKCk7Cg==</text>
+        <text encoding="base64">ICBjb25zdCBwbGF5ZXIyID0gbmV3IFRIUkVFLk1lc2goCiAgICAgIG5ldyBUSFJFRS5Cb3hCdWZmZXJHZW9tZXRyeSgxMCwgMTAsIDEpLAogICAgICBuZXcgVEhSRUUuTWVzaFBob25nTWF0ZXJpYWwoewogICAgICAgICAgY29sb3I6IDB4MjEyMUNFLAogICAgICAgICAgZW1pc3NpdmU6IDB4MUEzQzhFLAogICAgICAgICAgc3BlY3VsYXI6IDB4N0JDOEYyLAogICAgICAgICAgc2hpbmluZXNzOiAxMDAsCiAgICAgICAgICBmb2c6IHRydWUsCiAgICAgICAgICBzaWRlOiBUSFJFRS5Eb3VibGVTaWRlLAogICAgICAgICAgdmVydGV4Q29sb3JzOiBUSFJFRS5Ob0NvbG9ycywKICAgICAgICAgIGZsYXRTaGFkaW5nOiBmYWxzZSwKICAgICAgfSksCiAgKTsKICBwbGF5ZXIyLnBvc2l0aW9uLnogPSAtMTsKICBwbGF5ZXIyLnBvc2l0aW9uLnkgPSAxMTsKICBib2FyZC5hZGQocGxheWVyMik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgbGF5ZXJzOiBbXSBhcyBzdHJpbmdbXSwK</text>
+        <text encoding="base64">ICAgICAgICBuZXcgVEhSRUUuTWVzaFBob25nTWF0ZXJpYWwoewogICAgICAgICAgICBjb2xvcjogMHgyMTIxQ0UsCiAgICAgICAgICAgIGVtaXNzaXZlOiAweDFBM0M4RSwKICAgICAgICAgICAgc3BlY3VsYXI6IDB4N0JDOEYyLAogICAgICAgICAgICBzaGluaW5lc3M6IDEwMCwKICAgICAgICAgICAgZm9nOiB0cnVlLAogICAgICAgICAgICBzaWRlOiBUSFJFRS5Eb3VibGVTaWRlLAogICAgICAgICAgICB2ZXJ0ZXhDb2xvcnM6IFRIUkVFLk5vQ29sb3JzLAogICAgICAgICAgICBmbGF0U2hhZGluZzogZmFsc2UsCiAgICAgICAgfSksCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="8">
+        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5sYXllcnMucHVzaChwb2x5Z29uSUQpOwo=</text>
+        <text encoding="base64">ICAgICAgICBuZXcgVEhSRUUuTWVzaFBob25nTWF0ZXJpYWwoewogICAgICAgICAgICBjb2xvcjogMHgyMTIxQ0UsCiAgICAgICAgICAgIGVtaXNzaXZlOiAweDFBM0M4RSwKICAgICAgICAgICAgc3BlY3VsYXI6IDB4N0JDOEYyLAogICAgICAgICAgICBzaGluaW5lc3M6IDEwMCwKICAgICAgICAgICAgZm9nOiB0cnVlLAogICAgICAgICAgICBzaWRlOiBUSFJFRS5Eb3VibGVTaWRlLAogICAgICAgICAgICB2ZXJ0ZXhDb2xvcnM6IFRIUkVFLk5vQ29sb3JzLAogICAgICAgICAgICBmbGF0U2hhZGluZzogZmFsc2UsCiAgICAgICAgfSksCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="8">
+        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5sYXllcnMgPSBbXTsK</text>
+      <register name="5" type="4">
+        <text>new THREE.MeshPhongMaterial({
+          color: 0x2121CE,
+          emissive: 0x1A3C8E,
+          specular: 0x7BC8F2,
+          shininess: 100,
+          fog: true,
+          side: THREE.DoubleSide,
+          vertexColors: THREE.NoColors,
+          flatShading: false,
+        })</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5sYXllcnMKICAgICAgICAgICAgICAuZmlsdGVyKGwgPT4gdGhpcy5tYXAhLmdldExheWVyKGwpKQogICAgICAgICAgICAgIC5mb3JFYWNoKGwgPT4gdGhpcy5tYXAhLnJlbW92ZUxheWVyKGwpLnJlbW92ZVNvdXJjZShsKSk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgbmFtZTogJ2Zhcm0vbmFtZScsCg==</text>
+        <text encoding="base64">ICAgIGNvbnMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcHJlZml4OiAnYmlvbWFzcy1tYXAnLAo=</text>
+        <text encoding="base64">ICBiYXJyaWVyLnBvc2l0aW9uLnkgPSA2Owo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcGxhY2Vob2xkZXI6ICJodHRwczovL3ZpYS5wbGFjZWhvbGRlci5jb20vMTAwMHg2MDAucG5nL0ZGRkZGRi9GMkYyRjI/dGV4dD1GSURFUyIsCg==</text>
+      <register name="9" type="8">
+        <text>player2
+player2</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -211,6 +229,7 @@
       </history-search>
       <history-cmd>
         <entry>action GotoDeclaration</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
