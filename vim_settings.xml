@@ -3,11 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/TerraMagna/repositories/fides_platform/front/src/components/report/BiomassCard.vue" timestamp="1556564306358">
-        <mark key="[" line="162" column="74" />
-        <mark key="]" line="162" column="75" />
-        <mark key="." line="162" column="75" />
-        <mark key="^" line="162" column="75" />
+      <file name="$USER_HOME$/TerraMagna/repositories/fides_platform/front/src/components/report/BiomassCard.vue" timestamp="1556566158021">
+        <mark key="'" line="134" column="75" />
+        <mark key="[" line="167" column="23" />
+        <mark key="]" line="167" column="23" />
+        <mark key="." line="167" column="23" />
+        <mark key="^" line="167" column="23" />
       </file>
       <file name="$USER_HOME$/TerraMagna/repositories/fides_platform/front/node_modules/mapbox-gl/src/ui/map.js" timestamp="1556562715925">
         <mark key="'" line="1516" column="43" />
@@ -129,6 +130,7 @@
       <jump line="1516" column="43" filename="$USER_HOME$/TerraMagna/repositories/fides_platform/front/node_modules/mapbox-gl/src/ui/map.js" />
       <jump line="158" column="17" filename="$USER_HOME$/TerraMagna/repositories/fides_platform/front/src/components/report/BiomassCard.vue" />
       <jump line="160" column="17" filename="$USER_HOME$/TerraMagna/repositories/fides_platform/front/src/components/report/BiomassCard.vue" />
+      <jump line="134" column="75" filename="$USER_HOME$/TerraMagna/repositories/fides_platform/front/src/components/report/BiomassCard.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -154,7 +156,7 @@
         <text>2jdd</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>mapboxgl-interactive</text>
@@ -163,31 +165,31 @@
         <text encoding="base64">ICAgICAgdGhpcy5tYXAhLmJveFpvb20uZGlzYWJsZSgpOwogICAgICB0aGlzLm1hcCEuc2Nyb2xsWm9vbS5kaXNhYmxlKCk7CiAgICAgIHRoaXMubWFwIS5kcmFnUGFuLmRpc2FibGUoKTsKICAgICAgdGhpcy5tYXAhLmRyYWdSb3RhdGUuZGlzYWJsZSgpOwogICAgICB0aGlzLm1hcCEua2V5Ym9hcmQuZGlzYWJsZSgpOwogICAgICB0aGlzLm1hcCEuZG91YmxlQ2xpY2tab29tLmRpc2FibGUoKTsKICAgICAgdGhpcy5tYXAhLnRvdWNoWm9vbVJvdGF0ZS5kaXNhYmxlKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgKTsK</text>
+        <text encoding="base64">ICAgICAgU2V0LnByb3RvdHlwZS4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhgTGF5ZXIgJHtpZH0gcmVtb3ZlZCFgKTsK</text>
+        <text encoding="base64">ICAgICAgICBtYXBib3hnbC5HZW9KU09OU291cmNlLnByb3RvdHlwZS4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgem9vbTogMywK</text>
+        <text encoding="base64">ICAgICAgICBnZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgYm91bmRzOiBbXSwK</text>
+        <text encoding="base64">ICAgICAgICBHZW9KU09OLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29vcmRpbmF0ZXM6IHt9LAo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmxhCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhbnRpYWxpYXM6IHRydWUsCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZmVhdHMpIHsKICAgICAgICAgIGZlYXRzLnB1c2goZmVhdHVyZSk7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgIGZlYXR1cmVzLnNldChzdGF0ZSwgW2ZlYXR1cmVdKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBmZWF0cyA9IGZlYXR1cmVzLmdldChzdGF0ZSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5kaXNhYmxlSW50ZXJhY3Rpdml0eSgpOwo=</text>
+        <text encoding="base64">ICAgICAgLy8gR3JvdXAgZmVhdHVyZXMgYnkgc3RhdGUuCiAgICAgIGxldCBmZWF0dXJlczogTWFwPHN0cmluZywgR2VvSlNPTi5GZWF0dXJlW10+ID0gbmV3IE1hcCgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmVuYWJsZUludGVyYWN0aXZpdHkoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
