@@ -4,11 +4,15 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/TerraMagna/repositories/platform/browser/src/store.ts" timestamp="1531768956166" />
+      <file name="$USER_HOME$/TerraMagna/repositories/platform/browser/tslint.json" timestamp="1531773122949" />
       <file name="$USER_HOME$/TerraMagna/repositories/platform/services/userAuthService/src/service.ts" timestamp="1531521581062">
         <mark key="[" line="13" column="25" />
         <mark key="]" line="13" column="25" />
         <mark key="." line="13" column="25" />
         <mark key="^" line="13" column="25" />
+      </file>
+      <file name="/a.dummy" timestamp="1531771494888">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/TerraMagna/repositories/platform/services/userAuthService/src/lib/database.ts" timestamp="1531767303622">
         <mark key="'" line="50" column="2" />
@@ -26,29 +30,36 @@
       <file name="$USER_HOME$/TerraMagna/repositories/platform/services/pdfDownloadService/package.json" timestamp="1531500241176">
         <mark key="[" line="32" column="15" />
       </file>
-      <file name="$USER_HOME$/TerraMagna/repositories/platform/browser/src/components/LoginBackground.vue" timestamp="1531768213675">
-        <mark key="[" line="95" column="6" />
-        <mark key="]" line="95" column="6" />
-        <mark key="." line="95" column="6" />
-        <mark key="^" line="80" column="53" />
+      <file name="$USER_HOME$/TerraMagna/repositories/platform/browser/src/components/LoginBackground.vue" timestamp="1531770129236">
+        <mark key="[" line="47" column="4" />
+        <mark key="]" line="101" column="6" />
+        <mark key="." line="101" column="6" />
+        <mark key="^" line="86" column="53" />
       </file>
-      <file name="$USER_HOME$/TerraMagna/repositories/platform/browser/src/components/ControlPanel.vue" timestamp="1531769233467">
+      <file name="$USER_HOME$/TerraMagna/repositories/platform/browser/src/components/ControlPanel.vue" timestamp="1531771458532">
         <mark key="[" line="19" column="56" />
         <mark key="]" line="19" column="55" />
         <mark key="^" line="155" column="38" />
         <mark key="." line="19" column="55" />
       </file>
-      <file name="$USER_HOME$/TerraMagna/repositories/platform/browser/src/components/LoginCard.vue" timestamp="1531769029326">
-        <mark key="[" line="23" column="34" />
+      <file name="$USER_HOME$/TerraMagna/repositories/platform/browser/src/components/LoginCard.vue" timestamp="1531770460690">
+        <mark key="[" line="66" column="40" />
         <mark key="]" line="23" column="33" />
         <mark key="." line="23" column="33" />
         <mark key="^" line="23" column="33" />
       </file>
-      <file name="$USER_HOME$/TerraMagna/repositories/platform/browser/src/components/CardContent.vue" timestamp="1531768640376">
-        <mark key="[" line="145" column="16" />
-        <mark key="]" line="145" column="16" />
-        <mark key="^" line="145" column="16" />
-        <mark key="." line="145" column="16" />
+      <file name="$USER_HOME$/TerraMagna/repositories/platform/browser/src/components/CardContent.vue" timestamp="1531772557147">
+        <mark key="'" line="122" column="31" />
+        <mark key="[" line="118" column="44" />
+        <mark key="]" line="118" column="48" />
+        <mark key="^" line="118" column="48" />
+        <mark key="." line="118" column="48" />
+      </file>
+      <file name="$USER_HOME$/TerraMagna/repositories/platform/browser/src/router.ts" timestamp="1531772748184">
+        <mark key="[" line="10" column="31" />
+        <mark key="]" line="10" column="30" />
+        <mark key="^" line="10" column="30" />
+        <mark key="." line="10" column="30" />
       </file>
       <file name="$USER_HOME$/TerraMagna/repositories/platform/services/userAuthService/src/routers/auth.ts" timestamp="1531521619801">
         <mark key="'" line="7" column="0" />
@@ -63,10 +74,15 @@
         <mark key="]" line="2" column="40" />
         <mark key="." line="2" column="40" />
       </file>
-      <file name="$USER_HOME$/TerraMagna/repositories/platform/browser/src/views/Map.vue" timestamp="1531768943793" />
+      <file name="$USER_HOME$/TerraMagna/repositories/platform/browser/src/views/Map.vue" timestamp="1531772948406">
+        <mark key="[" line="63" column="37" />
+        <mark key="]" line="63" column="36" />
+        <mark key="." line="63" column="36" />
+      </file>
       <file name="$USER_HOME$/TerraMagna/repositories/platform/services/pdfDownloadService/src/lib/logger.ts" timestamp="1531500381013">
         <mark key="[" line="10" column="1" />
       </file>
+      <file name="$USER_HOME$/TerraMagna/repositories/platform/browser/src/baseComponents/Button.vue" timestamp="1531771184097" />
       <file name="$USER_HOME$/TerraMagna/repositories/platform/services/userAuthService/src/index.ts" timestamp="1531499670964">
         <mark key="'" line="11" column="23" />
         <mark key="[" line="9" column="9" />
@@ -93,13 +109,15 @@
       <jump line="4" column="0" filename="$USER_HOME$/TerraMagna/repositories/platform/services/userAuthService/src/routers/auth.ts" />
       <jump line="6" column="0" filename="$USER_HOME$/TerraMagna/repositories/platform/services/userAuthService/src/routers/auth.ts" />
       <jump line="7" column="0" filename="$USER_HOME$/TerraMagna/repositories/platform/services/userAuthService/src/routers/auth.ts" />
+      <jump line="123" column="35" filename="$USER_HOME$/TerraMagna/repositories/platform/browser/src/components/CardContent.vue" />
+      <jump line="122" column="31" filename="$USER_HOME$/TerraMagna/repositories/platform/browser/src/components/CardContent.vue" />
     </jumps>
     <registers>
       <register name="1" type="2">
         <text encoding="base64">ICAgIC13ZWJraXQtdHJhbnNmb3JtOiB0cmFuc2xhdGUoMCUsIDAlKTsgLyogU2FmYXJpICovCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>List</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIC1tcy10cmFuc2Zvcm06IHRyYW5zbGF0ZSgwJSwgMCUpOyAvKiBJRSA5ICovCg==</text>
@@ -129,7 +147,7 @@
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>List</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>

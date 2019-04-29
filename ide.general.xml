@@ -9,5 +9,6 @@
     <entry key="search.everywhere.settings" value="true" />
     <entry key="editor.distraction.free.mode" value="true" />
     <entry key="documentation.show.toolbar" value="true" />
+    <entry key="ide.tooltip.show.with.actions" value="true" />
   </component>
 </application>
