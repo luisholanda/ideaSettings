@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/TerraMagna/repositories/fides_platform/front/src/components/report/BiomassCard.vue" timestamp="1556572081644">
+      <file name="$USER_HOME$/TerraMagna/repositories/fides_platform/front/src/components/report/BiomassCard.vue" timestamp="1556577812676">
         <mark key="'" line="131" column="75" />
-        <mark key="[" line="149" column="26" />
-        <mark key="]" line="149" column="26" />
-        <mark key="^" line="149" column="26" />
-        <mark key="." line="149" column="26" />
+        <mark key="[" line="183" column="28" />
+        <mark key="]" line="183" column="39" />
+        <mark key="^" line="183" column="39" />
+        <mark key="." line="183" column="39" />
       </file>
       <file name="$USER_HOME$/TerraMagna/repositories/fides_platform/front/node_modules/mapbox-gl/src/ui/map.js" timestamp="1556562715925">
         <mark key="'" line="1516" column="43" />
@@ -164,7 +164,7 @@
         <text>2jdd</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>this.geojson</text>
       </register>
       <register name="/" type="4">
         <text>mapboxgl-interactive</text>
@@ -228,8 +228,9 @@ player2</text>
         <entry>mapboxgl-interactive</entry>
       </history-search>
       <history-cmd>
-        <entry>action GotoDeclaration</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
